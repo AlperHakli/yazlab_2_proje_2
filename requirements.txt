@@ -1,3 +1,7 @@
 pandas
 scikit_learn
 tensorflow
+numpy
+matplotlib
+networkx
+scipy
