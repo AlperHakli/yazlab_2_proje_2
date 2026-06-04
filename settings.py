@@ -14,7 +14,7 @@ class Settings():
     SKAB_VALVE2_PATH = "skab_valve2"
     # batadal dataset yolu
     BATADAL_PATH = DATA_PATH / "batadal_dataset.csv"
-
+    AUTOMATA_THRESHOLD = 0.2
 
 settings = Settings()
 

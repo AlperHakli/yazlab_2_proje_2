@@ -1,3 +1,4 @@
+from settings import settings
 class ExplainabilityEngine:
 
     def __init__(self, automata):
@@ -16,7 +17,7 @@ class ExplainabilityEngine:
             mapped_to
         )
 
-        if transition_probability < 0.2:
+        if transition_probability < settings.AUTOMATA_THRESHOLD:
             decision = "anomaly"
         else:
             decision = "normal"
