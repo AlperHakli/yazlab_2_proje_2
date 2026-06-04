@@ -24,3 +24,5 @@ batadal_df = pd.read_csv(settings.BATADAL_PATH , skipinitialspace = True)
 
 
 
+
+
