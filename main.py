@@ -16,7 +16,27 @@ skab_df = pd.concat([skab_value_1 , skab_value_2] , ignore_index=True)
 
 # batadal df için veri okunması skipinitialspace özelliği column isimlerindeki boşlukları siler
 batadal_df = pd.read_csv(settings.BATADAL_PATH , skipinitialspace = True)
+exclude_columns = [
+    "datetime",
+    "anomaly",
+    "changepoint",
+    "source_file",
+    "source_group"
+]
 
+normalized_df = DataPreprocessing.df_normalization(
+    skab_df,
+    exclude_columns
+)
+
+pca_df = DataPreprocessing.principal_component_analysis(
+    normalized_df,
+    n_components=1,
+    except_columns=exclude_columns
+)
+
+print(pca_df.head())
+print(pca_df.columns.tolist())
 
 
 
