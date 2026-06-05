@@ -14,7 +14,7 @@ class TestUnseenHandler(unittest.TestCase):
 
 
     def test_levenshtein_distance_calculation(self):
-        """levenshtein mesafe hesaplamasının matematiksel doğruluğunu test eder."""
+        """levenshtein mesafe hesaplamasının matematiksel doğruluğunu test eder"""
         # birbirine aynı stringlerin arası 0 olması beklenir
         self.assertEqual(UnseenHandler.levenshtein_distance("aabc", "aabc"), 0)
 
@@ -25,7 +25,7 @@ class TestUnseenHandler(unittest.TestCase):
         self.assertEqual(UnseenHandler.levenshtein_distance("aaaa", "bbbb"), 4)
 
     def test_known_pattern_handling(self):
-        """sözlükte olan bir pattern geldiğinde sistemin davranışını test et."""
+        """sözlükte olan bir pattern geldiğinde sistemin davranışını test et"""
         result = self.handler.handle("aabc")
 
         self.assertEqual(result["status"], "known")
