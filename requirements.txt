@@ -1,7 +1,16 @@
+# veri analizi kütüphanesi
 pandas
+# makine öğrenmesi kütüphaneleri
 scikit_learn
 tensorflow
+# matematik kütüphaneleri
 numpy
-matplotlib
-networkx
 scipy
+# veri görselleştirme
+matplotlib
+
+# test frameworkü
+pytest
+
+#diğer
+networkx

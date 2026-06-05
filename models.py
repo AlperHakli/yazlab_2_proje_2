@@ -35,4 +35,3 @@ class GRUModel(tf.keras.Model):
         x = self.dropout(x)
         logger.info("gru model eğitimi başarılı")
         return self.fullconnected(x)
-        
