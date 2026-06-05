@@ -16,6 +16,10 @@ class Settings():
     BATADAL_PATH = DATA_PATH / "batadal_dataset.csv"
     AUTOMATA_THRESHOLD = 0.2
 
+    PARAM_WINDOW_SIZES = [3, 4, 5, 6]
+    PARAM_ALPHABET_SIZES = [3, 4, 5, 6]
+    RANDOM_SEEDS = [42, 123, 2026, 7, 999]
+
 settings = Settings()
 
 

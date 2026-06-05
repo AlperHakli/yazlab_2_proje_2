@@ -26,8 +26,8 @@ class EvaluationMetrics:
 
         return {
             "accuracy": accuracy_score(y_true, y_pred),
-            "precision": precision_score(y_true, y_pred, zero_division=0),
-            "recall": recall_score(y_true, y_pred, zero_division=0),
-            "f1_score": f1_score(y_true, y_pred, zero_division=0),
+            "precision": precision_score(y_true, y_pred, average='macro', zero_division=0),
+            "recall": recall_score(y_true, y_pred, average='macro', zero_division=0),
+            "f1_score": f1_score(y_true, y_pred, average='macro', zero_division=0),
             "confusion_matrix": confusion_matrix(y_true, y_pred).tolist()
         }
