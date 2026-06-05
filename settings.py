@@ -20,6 +20,15 @@ class Settings():
     PARAM_ALPHABET_SIZES = [3, 4, 5, 6]
     RANDOM_SEEDS = [42, 123, 2026, 7, 999]
 
+    BASE_LOG_DIR = "logs"
+    AUTOMATA_LOG_DIR = "logs/automata_logs"
+    DEEP_LEARNING_LOG_DIR = "logs/deep_learning_logs"
+
+    AUTOMATA_BATADAL_NOISE_LEVEL = 0.05
+    DEEP_LEARNING_BATADAL_NOISE_LEVEL = 0.05
+    AUTOMATA_SKAB_NOISE_LEVEL = 0.05
+    DEEP_LEARNING_SKAB_NOISE_LEVEL = 0.05
+
 settings = Settings()
 
 

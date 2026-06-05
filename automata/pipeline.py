@@ -39,7 +39,8 @@ class AutomataPipeline:
             "sax_string": sax_string,
             "patterns": patterns,
             "states": self.automata.get_states(),
-            "transition_table": self.automata.get_transition_table()
+            "transition_table": self.automata.get_transition_table(),
+
         }
 
     def predict(self, test_series):
@@ -64,7 +65,8 @@ class AutomataPipeline:
                 current_state=current_state,
                 incoming_pattern=incoming_pattern,
                 status=next_state_info["status"],
-                mapped_to=mapped_to
+                mapped_to=mapped_to,
+                distance=next_state_info["distance"]
             )
 
             explanation["time_step"] = i + 1

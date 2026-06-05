@@ -1,0 +1,5018 @@
+[
+    {
+        "time_step": 1,
+        "actual_label": 0,
+        "prediction_probability": 0.5044381618499756,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 2,
+        "actual_label": 0,
+        "prediction_probability": 0.5245598554611206,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 3,
+        "actual_label": 0,
+        "prediction_probability": 0.5360517501831055,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 4,
+        "actual_label": 0,
+        "prediction_probability": 0.5358045101165771,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 5,
+        "actual_label": 0,
+        "prediction_probability": 0.5496285557746887,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 6,
+        "actual_label": 0,
+        "prediction_probability": 0.5510740876197815,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 7,
+        "actual_label": 0,
+        "prediction_probability": 0.54512619972229,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 8,
+        "actual_label": 0,
+        "prediction_probability": 0.4898092448711395,
+        "decision": "normal"
+    },
+    {
+        "time_step": 9,
+        "actual_label": 0,
+        "prediction_probability": 0.41797029972076416,
+        "decision": "normal"
+    },
+    {
+        "time_step": 10,
+        "actual_label": 0,
+        "prediction_probability": 0.4042968153953552,
+        "decision": "normal"
+    },
+    {
+        "time_step": 11,
+        "actual_label": 0,
+        "prediction_probability": 0.4009256064891815,
+        "decision": "normal"
+    },
+    {
+        "time_step": 12,
+        "actual_label": 0,
+        "prediction_probability": 0.4034971594810486,
+        "decision": "normal"
+    },
+    {
+        "time_step": 13,
+        "actual_label": 0,
+        "prediction_probability": 0.3960919678211212,
+        "decision": "normal"
+    },
+    {
+        "time_step": 14,
+        "actual_label": 0,
+        "prediction_probability": 0.49806633591651917,
+        "decision": "normal"
+    },
+    {
+        "time_step": 15,
+        "actual_label": 0,
+        "prediction_probability": 0.5452613234519958,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 16,
+        "actual_label": 0,
+        "prediction_probability": 0.5542925596237183,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 17,
+        "actual_label": 0,
+        "prediction_probability": 0.5263678431510925,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 18,
+        "actual_label": 0,
+        "prediction_probability": 0.5162042379379272,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 19,
+        "actual_label": 0,
+        "prediction_probability": 0.4722440242767334,
+        "decision": "normal"
+    },
+    {
+        "time_step": 20,
+        "actual_label": 0,
+        "prediction_probability": 0.4633103311061859,
+        "decision": "normal"
+    },
+    {
+        "time_step": 21,
+        "actual_label": 0,
+        "prediction_probability": 0.46293073892593384,
+        "decision": "normal"
+    },
+    {
+        "time_step": 22,
+        "actual_label": 0,
+        "prediction_probability": 0.470519483089447,
+        "decision": "normal"
+    },
+    {
+        "time_step": 23,
+        "actual_label": 0,
+        "prediction_probability": 0.47420749068260193,
+        "decision": "normal"
+    },
+    {
+        "time_step": 24,
+        "actual_label": 0,
+        "prediction_probability": 0.5264659523963928,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 25,
+        "actual_label": 0,
+        "prediction_probability": 0.520887553691864,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 26,
+        "actual_label": 0,
+        "prediction_probability": 0.5413880348205566,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 27,
+        "actual_label": 0,
+        "prediction_probability": 0.5718994140625,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 28,
+        "actual_label": 0,
+        "prediction_probability": 0.5619504451751709,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 29,
+        "actual_label": 0,
+        "prediction_probability": 0.5555638670921326,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 30,
+        "actual_label": 0,
+        "prediction_probability": 0.5437169075012207,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 31,
+        "actual_label": 0,
+        "prediction_probability": 0.43589040637016296,
+        "decision": "normal"
+    },
+    {
+        "time_step": 32,
+        "actual_label": 0,
+        "prediction_probability": 0.39689791202545166,
+        "decision": "normal"
+    },
+    {
+        "time_step": 33,
+        "actual_label": 0,
+        "prediction_probability": 0.37986278533935547,
+        "decision": "normal"
+    },
+    {
+        "time_step": 34,
+        "actual_label": 0,
+        "prediction_probability": 0.42061302065849304,
+        "decision": "normal"
+    },
+    {
+        "time_step": 35,
+        "actual_label": 0,
+        "prediction_probability": 0.48350951075553894,
+        "decision": "normal"
+    },
+    {
+        "time_step": 36,
+        "actual_label": 0,
+        "prediction_probability": 0.5017573833465576,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 37,
+        "actual_label": 0,
+        "prediction_probability": 0.5366467237472534,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 38,
+        "actual_label": 0,
+        "prediction_probability": 0.5101520419120789,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 39,
+        "actual_label": 0,
+        "prediction_probability": 0.5049740076065063,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 40,
+        "actual_label": 0,
+        "prediction_probability": 0.5063045024871826,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 41,
+        "actual_label": 0,
+        "prediction_probability": 0.5103297233581543,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 42,
+        "actual_label": 0,
+        "prediction_probability": 0.5401917695999146,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 43,
+        "actual_label": 0,
+        "prediction_probability": 0.481463760137558,
+        "decision": "normal"
+    },
+    {
+        "time_step": 44,
+        "actual_label": 0,
+        "prediction_probability": 0.5346512794494629,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 45,
+        "actual_label": 0,
+        "prediction_probability": 0.5281071066856384,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 46,
+        "actual_label": 0,
+        "prediction_probability": 0.5289143919944763,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 47,
+        "actual_label": 0,
+        "prediction_probability": 0.5314657688140869,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 48,
+        "actual_label": 0,
+        "prediction_probability": 0.5312691926956177,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 49,
+        "actual_label": 0,
+        "prediction_probability": 0.5304903388023376,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 50,
+        "actual_label": 0,
+        "prediction_probability": 0.559065580368042,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 51,
+        "actual_label": 0,
+        "prediction_probability": 0.5751769542694092,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 52,
+        "actual_label": 0,
+        "prediction_probability": 0.5683534741401672,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 53,
+        "actual_label": 0,
+        "prediction_probability": 0.5122122764587402,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 54,
+        "actual_label": 0,
+        "prediction_probability": 0.48524612188339233,
+        "decision": "normal"
+    },
+    {
+        "time_step": 55,
+        "actual_label": 0,
+        "prediction_probability": 0.5262835621833801,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 56,
+        "actual_label": 0,
+        "prediction_probability": 0.39156147837638855,
+        "decision": "normal"
+    },
+    {
+        "time_step": 57,
+        "actual_label": 0,
+        "prediction_probability": 0.35299959778785706,
+        "decision": "normal"
+    },
+    {
+        "time_step": 58,
+        "actual_label": 0,
+        "prediction_probability": 0.3670247197151184,
+        "decision": "normal"
+    },
+    {
+        "time_step": 59,
+        "actual_label": 0,
+        "prediction_probability": 0.3388729691505432,
+        "decision": "normal"
+    },
+    {
+        "time_step": 60,
+        "actual_label": 0,
+        "prediction_probability": 0.36207115650177,
+        "decision": "normal"
+    },
+    {
+        "time_step": 61,
+        "actual_label": 0,
+        "prediction_probability": 0.37096619606018066,
+        "decision": "normal"
+    },
+    {
+        "time_step": 62,
+        "actual_label": 0,
+        "prediction_probability": 0.49013751745224,
+        "decision": "normal"
+    },
+    {
+        "time_step": 63,
+        "actual_label": 0,
+        "prediction_probability": 0.497417151927948,
+        "decision": "normal"
+    },
+    {
+        "time_step": 64,
+        "actual_label": 0,
+        "prediction_probability": 0.4952380955219269,
+        "decision": "normal"
+    },
+    {
+        "time_step": 65,
+        "actual_label": 0,
+        "prediction_probability": 0.48552894592285156,
+        "decision": "normal"
+    },
+    {
+        "time_step": 66,
+        "actual_label": 0,
+        "prediction_probability": 0.4386923313140869,
+        "decision": "normal"
+    },
+    {
+        "time_step": 67,
+        "actual_label": 0,
+        "prediction_probability": 0.4201884865760803,
+        "decision": "normal"
+    },
+    {
+        "time_step": 68,
+        "actual_label": 0,
+        "prediction_probability": 0.3806386888027191,
+        "decision": "normal"
+    },
+    {
+        "time_step": 69,
+        "actual_label": 0,
+        "prediction_probability": 0.42952391505241394,
+        "decision": "normal"
+    },
+    {
+        "time_step": 70,
+        "actual_label": 0,
+        "prediction_probability": 0.44632554054260254,
+        "decision": "normal"
+    },
+    {
+        "time_step": 71,
+        "actual_label": 0,
+        "prediction_probability": 0.4522549510002136,
+        "decision": "normal"
+    },
+    {
+        "time_step": 72,
+        "actual_label": 0,
+        "prediction_probability": 0.5287072658538818,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 73,
+        "actual_label": 0,
+        "prediction_probability": 0.5458582639694214,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 74,
+        "actual_label": 0,
+        "prediction_probability": 0.5535727739334106,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 75,
+        "actual_label": 0,
+        "prediction_probability": 0.5656419992446899,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 76,
+        "actual_label": 0,
+        "prediction_probability": 0.5690592527389526,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 77,
+        "actual_label": 0,
+        "prediction_probability": 0.5723466277122498,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 78,
+        "actual_label": 0,
+        "prediction_probability": 0.5741372108459473,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 79,
+        "actual_label": 0,
+        "prediction_probability": 0.5485700368881226,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 80,
+        "actual_label": 0,
+        "prediction_probability": 0.5284528136253357,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 81,
+        "actual_label": 0,
+        "prediction_probability": 0.48667505383491516,
+        "decision": "normal"
+    },
+    {
+        "time_step": 82,
+        "actual_label": 0,
+        "prediction_probability": 0.4822952449321747,
+        "decision": "normal"
+    },
+    {
+        "time_step": 83,
+        "actual_label": 0,
+        "prediction_probability": 0.48498305678367615,
+        "decision": "normal"
+    },
+    {
+        "time_step": 84,
+        "actual_label": 0,
+        "prediction_probability": 0.484896719455719,
+        "decision": "normal"
+    },
+    {
+        "time_step": 85,
+        "actual_label": 0,
+        "prediction_probability": 0.5156478881835938,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 86,
+        "actual_label": 0,
+        "prediction_probability": 0.5493342876434326,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 87,
+        "actual_label": 0,
+        "prediction_probability": 0.5605874061584473,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 88,
+        "actual_label": 0,
+        "prediction_probability": 0.5663319826126099,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 89,
+        "actual_label": 0,
+        "prediction_probability": 0.5089523792266846,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 90,
+        "actual_label": 0,
+        "prediction_probability": 0.4722200334072113,
+        "decision": "normal"
+    },
+    {
+        "time_step": 91,
+        "actual_label": 0,
+        "prediction_probability": 0.39611223340034485,
+        "decision": "normal"
+    },
+    {
+        "time_step": 92,
+        "actual_label": 0,
+        "prediction_probability": 0.3800245225429535,
+        "decision": "normal"
+    },
+    {
+        "time_step": 93,
+        "actual_label": 0,
+        "prediction_probability": 0.36990001797676086,
+        "decision": "normal"
+    },
+    {
+        "time_step": 94,
+        "actual_label": 0,
+        "prediction_probability": 0.4144238829612732,
+        "decision": "normal"
+    },
+    {
+        "time_step": 95,
+        "actual_label": 0,
+        "prediction_probability": 0.4921409487724304,
+        "decision": "normal"
+    },
+    {
+        "time_step": 96,
+        "actual_label": 0,
+        "prediction_probability": 0.5412554740905762,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 97,
+        "actual_label": 0,
+        "prediction_probability": 0.5175333023071289,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 98,
+        "actual_label": 0,
+        "prediction_probability": 0.5398973226547241,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 99,
+        "actual_label": 0,
+        "prediction_probability": 0.5688865184783936,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 100,
+        "actual_label": 0,
+        "prediction_probability": 0.5739021301269531,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 101,
+        "actual_label": 0,
+        "prediction_probability": 0.5447725057601929,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 102,
+        "actual_label": 0,
+        "prediction_probability": 0.5325145721435547,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 103,
+        "actual_label": 0,
+        "prediction_probability": 0.5323712825775146,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 104,
+        "actual_label": 0,
+        "prediction_probability": 0.5402394533157349,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 105,
+        "actual_label": 0,
+        "prediction_probability": 0.5020126700401306,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 106,
+        "actual_label": 0,
+        "prediction_probability": 0.5285807251930237,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 107,
+        "actual_label": 0,
+        "prediction_probability": 0.5079753398895264,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 108,
+        "actual_label": 0,
+        "prediction_probability": 0.5347734689712524,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 109,
+        "actual_label": 0,
+        "prediction_probability": 0.5501492023468018,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 110,
+        "actual_label": 0,
+        "prediction_probability": 0.5526168942451477,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 111,
+        "actual_label": 0,
+        "prediction_probability": 0.5599852800369263,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 112,
+        "actual_label": 0,
+        "prediction_probability": 0.4722067713737488,
+        "decision": "normal"
+    },
+    {
+        "time_step": 113,
+        "actual_label": 0,
+        "prediction_probability": 0.42277246713638306,
+        "decision": "normal"
+    },
+    {
+        "time_step": 114,
+        "actual_label": 0,
+        "prediction_probability": 0.39736655354499817,
+        "decision": "normal"
+    },
+    {
+        "time_step": 115,
+        "actual_label": 0,
+        "prediction_probability": 0.3549921214580536,
+        "decision": "normal"
+    },
+    {
+        "time_step": 116,
+        "actual_label": 0,
+        "prediction_probability": 0.33726832270622253,
+        "decision": "normal"
+    },
+    {
+        "time_step": 117,
+        "actual_label": 0,
+        "prediction_probability": 0.32866719365119934,
+        "decision": "normal"
+    },
+    {
+        "time_step": 118,
+        "actual_label": 0,
+        "prediction_probability": 0.398317813873291,
+        "decision": "normal"
+    },
+    {
+        "time_step": 119,
+        "actual_label": 0,
+        "prediction_probability": 0.4786688983440399,
+        "decision": "normal"
+    },
+    {
+        "time_step": 120,
+        "actual_label": 0,
+        "prediction_probability": 0.5031368732452393,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 121,
+        "actual_label": 0,
+        "prediction_probability": 0.5016601085662842,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 122,
+        "actual_label": 0,
+        "prediction_probability": 0.5316362380981445,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 123,
+        "actual_label": 0,
+        "prediction_probability": 0.5519577860832214,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 124,
+        "actual_label": 0,
+        "prediction_probability": 0.5223714113235474,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 125,
+        "actual_label": 0,
+        "prediction_probability": 0.46133318543434143,
+        "decision": "normal"
+    },
+    {
+        "time_step": 126,
+        "actual_label": 0,
+        "prediction_probability": 0.43430039286613464,
+        "decision": "normal"
+    },
+    {
+        "time_step": 127,
+        "actual_label": 0,
+        "prediction_probability": 0.43028077483177185,
+        "decision": "normal"
+    },
+    {
+        "time_step": 128,
+        "actual_label": 0,
+        "prediction_probability": 0.4441686272621155,
+        "decision": "normal"
+    },
+    {
+        "time_step": 129,
+        "actual_label": 0,
+        "prediction_probability": 0.5055559873580933,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 130,
+        "actual_label": 0,
+        "prediction_probability": 0.5193558931350708,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 131,
+        "actual_label": 0,
+        "prediction_probability": 0.5199983716011047,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 132,
+        "actual_label": 0,
+        "prediction_probability": 0.5209879279136658,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 133,
+        "actual_label": 0,
+        "prediction_probability": 0.5174389481544495,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 134,
+        "actual_label": 0,
+        "prediction_probability": 0.5165852308273315,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 135,
+        "actual_label": 0,
+        "prediction_probability": 0.5191183090209961,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 136,
+        "actual_label": 0,
+        "prediction_probability": 0.5208494663238525,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 137,
+        "actual_label": 0,
+        "prediction_probability": 0.5438576936721802,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 138,
+        "actual_label": 0,
+        "prediction_probability": 0.5262150764465332,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 139,
+        "actual_label": 0,
+        "prediction_probability": 0.4824155569076538,
+        "decision": "normal"
+    },
+    {
+        "time_step": 140,
+        "actual_label": 0,
+        "prediction_probability": 0.5160880088806152,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 141,
+        "actual_label": 0,
+        "prediction_probability": 0.5260096788406372,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 142,
+        "actual_label": 0,
+        "prediction_probability": 0.5259448885917664,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 143,
+        "actual_label": 0,
+        "prediction_probability": 0.5333703756332397,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 144,
+        "actual_label": 0,
+        "prediction_probability": 0.5497189164161682,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 145,
+        "actual_label": 0,
+        "prediction_probability": 0.5354958772659302,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 146,
+        "actual_label": 0,
+        "prediction_probability": 0.5525315999984741,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 147,
+        "actual_label": 0,
+        "prediction_probability": 0.5443664193153381,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 148,
+        "actual_label": 0,
+        "prediction_probability": 0.5530217885971069,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 149,
+        "actual_label": 0,
+        "prediction_probability": 0.5539219379425049,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 150,
+        "actual_label": 0,
+        "prediction_probability": 0.5434134602546692,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 151,
+        "actual_label": 0,
+        "prediction_probability": 0.4913199841976166,
+        "decision": "normal"
+    },
+    {
+        "time_step": 152,
+        "actual_label": 0,
+        "prediction_probability": 0.4101131558418274,
+        "decision": "normal"
+    },
+    {
+        "time_step": 153,
+        "actual_label": 0,
+        "prediction_probability": 0.3836967945098877,
+        "decision": "normal"
+    },
+    {
+        "time_step": 154,
+        "actual_label": 0,
+        "prediction_probability": 0.378223717212677,
+        "decision": "normal"
+    },
+    {
+        "time_step": 155,
+        "actual_label": 0,
+        "prediction_probability": 0.42393457889556885,
+        "decision": "normal"
+    },
+    {
+        "time_step": 156,
+        "actual_label": 0,
+        "prediction_probability": 0.5358614921569824,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 157,
+        "actual_label": 0,
+        "prediction_probability": 0.5409674048423767,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 158,
+        "actual_label": 0,
+        "prediction_probability": 0.5574209690093994,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 159,
+        "actual_label": 0,
+        "prediction_probability": 0.5647007822990417,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 160,
+        "actual_label": 0,
+        "prediction_probability": 0.5650076866149902,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 161,
+        "actual_label": 0,
+        "prediction_probability": 0.5362832546234131,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 162,
+        "actual_label": 0,
+        "prediction_probability": 0.5279452800750732,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 163,
+        "actual_label": 0,
+        "prediction_probability": 0.48534709215164185,
+        "decision": "normal"
+    },
+    {
+        "time_step": 164,
+        "actual_label": 0,
+        "prediction_probability": 0.4068607985973358,
+        "decision": "normal"
+    },
+    {
+        "time_step": 165,
+        "actual_label": 0,
+        "prediction_probability": 0.3878004252910614,
+        "decision": "normal"
+    },
+    {
+        "time_step": 166,
+        "actual_label": 0,
+        "prediction_probability": 0.39468419551849365,
+        "decision": "normal"
+    },
+    {
+        "time_step": 167,
+        "actual_label": 0,
+        "prediction_probability": 0.5228483080863953,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 168,
+        "actual_label": 1,
+        "prediction_probability": 0.5277389287948608,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 169,
+        "actual_label": 1,
+        "prediction_probability": 0.5408759117126465,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 170,
+        "actual_label": 1,
+        "prediction_probability": 0.5756052732467651,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 171,
+        "actual_label": 1,
+        "prediction_probability": 0.5816747546195984,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 172,
+        "actual_label": 1,
+        "prediction_probability": 0.5733048915863037,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 173,
+        "actual_label": 1,
+        "prediction_probability": 0.5413627624511719,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 174,
+        "actual_label": 1,
+        "prediction_probability": 0.4782063364982605,
+        "decision": "normal"
+    },
+    {
+        "time_step": 175,
+        "actual_label": 0,
+        "prediction_probability": 0.44374704360961914,
+        "decision": "normal"
+    },
+    {
+        "time_step": 176,
+        "actual_label": 0,
+        "prediction_probability": 0.42643851041793823,
+        "decision": "normal"
+    },
+    {
+        "time_step": 177,
+        "actual_label": 0,
+        "prediction_probability": 0.36943912506103516,
+        "decision": "normal"
+    },
+    {
+        "time_step": 178,
+        "actual_label": 0,
+        "prediction_probability": 0.3517811894416809,
+        "decision": "normal"
+    },
+    {
+        "time_step": 179,
+        "actual_label": 0,
+        "prediction_probability": 0.3770510256290436,
+        "decision": "normal"
+    },
+    {
+        "time_step": 180,
+        "actual_label": 0,
+        "prediction_probability": 0.37835007905960083,
+        "decision": "normal"
+    },
+    {
+        "time_step": 181,
+        "actual_label": 0,
+        "prediction_probability": 0.35677123069763184,
+        "decision": "normal"
+    },
+    {
+        "time_step": 182,
+        "actual_label": 0,
+        "prediction_probability": 0.34798508882522583,
+        "decision": "normal"
+    },
+    {
+        "time_step": 183,
+        "actual_label": 0,
+        "prediction_probability": 0.3424200117588043,
+        "decision": "normal"
+    },
+    {
+        "time_step": 184,
+        "actual_label": 0,
+        "prediction_probability": 0.3409028649330139,
+        "decision": "normal"
+    },
+    {
+        "time_step": 185,
+        "actual_label": 0,
+        "prediction_probability": 0.339778333902359,
+        "decision": "normal"
+    },
+    {
+        "time_step": 186,
+        "actual_label": 0,
+        "prediction_probability": 0.3404719829559326,
+        "decision": "normal"
+    },
+    {
+        "time_step": 187,
+        "actual_label": 0,
+        "prediction_probability": 0.3918514847755432,
+        "decision": "normal"
+    },
+    {
+        "time_step": 188,
+        "actual_label": 0,
+        "prediction_probability": 0.4322513937950134,
+        "decision": "normal"
+    },
+    {
+        "time_step": 189,
+        "actual_label": 0,
+        "prediction_probability": 0.44278040528297424,
+        "decision": "normal"
+    },
+    {
+        "time_step": 190,
+        "actual_label": 0,
+        "prediction_probability": 0.4458328187465668,
+        "decision": "normal"
+    },
+    {
+        "time_step": 191,
+        "actual_label": 0,
+        "prediction_probability": 0.5021625757217407,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 192,
+        "actual_label": 0,
+        "prediction_probability": 0.5373583436012268,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 193,
+        "actual_label": 0,
+        "prediction_probability": 0.5521373748779297,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 194,
+        "actual_label": 0,
+        "prediction_probability": 0.5668083429336548,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 195,
+        "actual_label": 0,
+        "prediction_probability": 0.5713567137718201,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 196,
+        "actual_label": 0,
+        "prediction_probability": 0.5491060018539429,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 197,
+        "actual_label": 0,
+        "prediction_probability": 0.556364119052887,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 198,
+        "actual_label": 0,
+        "prediction_probability": 0.54433274269104,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 199,
+        "actual_label": 0,
+        "prediction_probability": 0.5392841696739197,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 200,
+        "actual_label": 0,
+        "prediction_probability": 0.5010475516319275,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 201,
+        "actual_label": 0,
+        "prediction_probability": 0.48749223351478577,
+        "decision": "normal"
+    },
+    {
+        "time_step": 202,
+        "actual_label": 0,
+        "prediction_probability": 0.5234566926956177,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 203,
+        "actual_label": 0,
+        "prediction_probability": 0.5356319546699524,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 204,
+        "actual_label": 0,
+        "prediction_probability": 0.5413564443588257,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 205,
+        "actual_label": 0,
+        "prediction_probability": 0.5436365604400635,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 206,
+        "actual_label": 0,
+        "prediction_probability": 0.5457955598831177,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 207,
+        "actual_label": 0,
+        "prediction_probability": 0.5252925157546997,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 208,
+        "actual_label": 0,
+        "prediction_probability": 0.5060211420059204,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 209,
+        "actual_label": 0,
+        "prediction_probability": 0.41018709540367126,
+        "decision": "normal"
+    },
+    {
+        "time_step": 210,
+        "actual_label": 0,
+        "prediction_probability": 0.381257027387619,
+        "decision": "normal"
+    },
+    {
+        "time_step": 211,
+        "actual_label": 0,
+        "prediction_probability": 0.3302374482154846,
+        "decision": "normal"
+    },
+    {
+        "time_step": 212,
+        "actual_label": 0,
+        "prediction_probability": 0.3190425932407379,
+        "decision": "normal"
+    },
+    {
+        "time_step": 213,
+        "actual_label": 0,
+        "prediction_probability": 0.34319403767585754,
+        "decision": "normal"
+    },
+    {
+        "time_step": 214,
+        "actual_label": 0,
+        "prediction_probability": 0.3989127576351166,
+        "decision": "normal"
+    },
+    {
+        "time_step": 215,
+        "actual_label": 0,
+        "prediction_probability": 0.5074974298477173,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 216,
+        "actual_label": 0,
+        "prediction_probability": 0.5289342403411865,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 217,
+        "actual_label": 0,
+        "prediction_probability": 0.5472145080566406,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 218,
+        "actual_label": 0,
+        "prediction_probability": 0.5446192026138306,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 219,
+        "actual_label": 0,
+        "prediction_probability": 0.5667798519134521,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 220,
+        "actual_label": 0,
+        "prediction_probability": 0.5710873603820801,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 221,
+        "actual_label": 0,
+        "prediction_probability": 0.5690107345581055,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 222,
+        "actual_label": 0,
+        "prediction_probability": 0.5633974075317383,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 223,
+        "actual_label": 0,
+        "prediction_probability": 0.5709123611450195,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 224,
+        "actual_label": 0,
+        "prediction_probability": 0.518487274646759,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 225,
+        "actual_label": 0,
+        "prediction_probability": 0.5392457246780396,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 226,
+        "actual_label": 0,
+        "prediction_probability": 0.5449316501617432,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 227,
+        "actual_label": 0,
+        "prediction_probability": 0.4543835520744324,
+        "decision": "normal"
+    },
+    {
+        "time_step": 228,
+        "actual_label": 0,
+        "prediction_probability": 0.46749842166900635,
+        "decision": "normal"
+    },
+    {
+        "time_step": 229,
+        "actual_label": 0,
+        "prediction_probability": 0.4782160818576813,
+        "decision": "normal"
+    },
+    {
+        "time_step": 230,
+        "actual_label": 0,
+        "prediction_probability": 0.5233703851699829,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 231,
+        "actual_label": 0,
+        "prediction_probability": 0.4839434027671814,
+        "decision": "normal"
+    },
+    {
+        "time_step": 232,
+        "actual_label": 0,
+        "prediction_probability": 0.41451597213745117,
+        "decision": "normal"
+    },
+    {
+        "time_step": 233,
+        "actual_label": 0,
+        "prediction_probability": 0.3855341970920563,
+        "decision": "normal"
+    },
+    {
+        "time_step": 234,
+        "actual_label": 0,
+        "prediction_probability": 0.3769732713699341,
+        "decision": "normal"
+    },
+    {
+        "time_step": 235,
+        "actual_label": 0,
+        "prediction_probability": 0.3572741448879242,
+        "decision": "normal"
+    },
+    {
+        "time_step": 236,
+        "actual_label": 0,
+        "prediction_probability": 0.3536616265773773,
+        "decision": "normal"
+    },
+    {
+        "time_step": 237,
+        "actual_label": 0,
+        "prediction_probability": 0.35442477464675903,
+        "decision": "normal"
+    },
+    {
+        "time_step": 238,
+        "actual_label": 0,
+        "prediction_probability": 0.3583128750324249,
+        "decision": "normal"
+    },
+    {
+        "time_step": 239,
+        "actual_label": 0,
+        "prediction_probability": 0.41362813115119934,
+        "decision": "normal"
+    },
+    {
+        "time_step": 240,
+        "actual_label": 0,
+        "prediction_probability": 0.48583558201789856,
+        "decision": "normal"
+    },
+    {
+        "time_step": 241,
+        "actual_label": 0,
+        "prediction_probability": 0.5369572639465332,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 242,
+        "actual_label": 0,
+        "prediction_probability": 0.5506693720817566,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 243,
+        "actual_label": 0,
+        "prediction_probability": 0.5242599248886108,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 244,
+        "actual_label": 0,
+        "prediction_probability": 0.46123120188713074,
+        "decision": "normal"
+    },
+    {
+        "time_step": 245,
+        "actual_label": 0,
+        "prediction_probability": 0.4963759183883667,
+        "decision": "normal"
+    },
+    {
+        "time_step": 246,
+        "actual_label": 0,
+        "prediction_probability": 0.5104308128356934,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 247,
+        "actual_label": 0,
+        "prediction_probability": 0.5058821439743042,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 248,
+        "actual_label": 0,
+        "prediction_probability": 0.5044970512390137,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 249,
+        "actual_label": 0,
+        "prediction_probability": 0.474025696516037,
+        "decision": "normal"
+    },
+    {
+        "time_step": 250,
+        "actual_label": 0,
+        "prediction_probability": 0.50843346118927,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 251,
+        "actual_label": 0,
+        "prediction_probability": 0.5416370034217834,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 252,
+        "actual_label": 0,
+        "prediction_probability": 0.5545159578323364,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 253,
+        "actual_label": 0,
+        "prediction_probability": 0.5617474317550659,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 254,
+        "actual_label": 0,
+        "prediction_probability": 0.567765474319458,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 255,
+        "actual_label": 0,
+        "prediction_probability": 0.536432147026062,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 256,
+        "actual_label": 0,
+        "prediction_probability": 0.5228726863861084,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 257,
+        "actual_label": 0,
+        "prediction_probability": 0.5219716429710388,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 258,
+        "actual_label": 0,
+        "prediction_probability": 0.5212001204490662,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 259,
+        "actual_label": 0,
+        "prediction_probability": 0.5167932510375977,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 260,
+        "actual_label": 0,
+        "prediction_probability": 0.5222779512405396,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 261,
+        "actual_label": 0,
+        "prediction_probability": 0.5270959138870239,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 262,
+        "actual_label": 0,
+        "prediction_probability": 0.5294077396392822,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 263,
+        "actual_label": 0,
+        "prediction_probability": 0.49477633833885193,
+        "decision": "normal"
+    },
+    {
+        "time_step": 264,
+        "actual_label": 0,
+        "prediction_probability": 0.5202172994613647,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 265,
+        "actual_label": 0,
+        "prediction_probability": 0.55190110206604,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 266,
+        "actual_label": 0,
+        "prediction_probability": 0.5659648776054382,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 267,
+        "actual_label": 0,
+        "prediction_probability": 0.5707261562347412,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 268,
+        "actual_label": 0,
+        "prediction_probability": 0.5752366781234741,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 269,
+        "actual_label": 0,
+        "prediction_probability": 0.5635446310043335,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 270,
+        "actual_label": 0,
+        "prediction_probability": 0.5662946105003357,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 271,
+        "actual_label": 0,
+        "prediction_probability": 0.5030248165130615,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 272,
+        "actual_label": 0,
+        "prediction_probability": 0.41153383255004883,
+        "decision": "normal"
+    },
+    {
+        "time_step": 273,
+        "actual_label": 0,
+        "prediction_probability": 0.34780287742614746,
+        "decision": "normal"
+    },
+    {
+        "time_step": 274,
+        "actual_label": 0,
+        "prediction_probability": 0.33677175641059875,
+        "decision": "normal"
+    },
+    {
+        "time_step": 275,
+        "actual_label": 0,
+        "prediction_probability": 0.3321991264820099,
+        "decision": "normal"
+    },
+    {
+        "time_step": 276,
+        "actual_label": 0,
+        "prediction_probability": 0.35724103450775146,
+        "decision": "normal"
+    },
+    {
+        "time_step": 277,
+        "actual_label": 0,
+        "prediction_probability": 0.4743002653121948,
+        "decision": "normal"
+    },
+    {
+        "time_step": 278,
+        "actual_label": 0,
+        "prediction_probability": 0.545573353767395,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 279,
+        "actual_label": 0,
+        "prediction_probability": 0.5099263191223145,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 280,
+        "actual_label": 0,
+        "prediction_probability": 0.49272215366363525,
+        "decision": "normal"
+    },
+    {
+        "time_step": 281,
+        "actual_label": 0,
+        "prediction_probability": 0.4912736415863037,
+        "decision": "normal"
+    },
+    {
+        "time_step": 282,
+        "actual_label": 0,
+        "prediction_probability": 0.44806113839149475,
+        "decision": "normal"
+    },
+    {
+        "time_step": 283,
+        "actual_label": 0,
+        "prediction_probability": 0.42564767599105835,
+        "decision": "normal"
+    },
+    {
+        "time_step": 284,
+        "actual_label": 0,
+        "prediction_probability": 0.3809548616409302,
+        "decision": "normal"
+    },
+    {
+        "time_step": 285,
+        "actual_label": 0,
+        "prediction_probability": 0.4307023584842682,
+        "decision": "normal"
+    },
+    {
+        "time_step": 286,
+        "actual_label": 0,
+        "prediction_probability": 0.44237852096557617,
+        "decision": "normal"
+    },
+    {
+        "time_step": 287,
+        "actual_label": 0,
+        "prediction_probability": 0.4494369328022003,
+        "decision": "normal"
+    },
+    {
+        "time_step": 288,
+        "actual_label": 0,
+        "prediction_probability": 0.5028034448623657,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 289,
+        "actual_label": 0,
+        "prediction_probability": 0.5274695754051208,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 290,
+        "actual_label": 0,
+        "prediction_probability": 0.5302345752716064,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 291,
+        "actual_label": 0,
+        "prediction_probability": 0.569845974445343,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 292,
+        "actual_label": 0,
+        "prediction_probability": 0.5799819231033325,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 293,
+        "actual_label": 0,
+        "prediction_probability": 0.550650954246521,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 294,
+        "actual_label": 0,
+        "prediction_probability": 0.5351204872131348,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 295,
+        "actual_label": 0,
+        "prediction_probability": 0.5295022130012512,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 296,
+        "actual_label": 0,
+        "prediction_probability": 0.4880301356315613,
+        "decision": "normal"
+    },
+    {
+        "time_step": 297,
+        "actual_label": 0,
+        "prediction_probability": 0.5266193151473999,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 298,
+        "actual_label": 0,
+        "prediction_probability": 0.49188822507858276,
+        "decision": "normal"
+    },
+    {
+        "time_step": 299,
+        "actual_label": 0,
+        "prediction_probability": 0.4843555986881256,
+        "decision": "normal"
+    },
+    {
+        "time_step": 300,
+        "actual_label": 0,
+        "prediction_probability": 0.523067831993103,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 301,
+        "actual_label": 0,
+        "prediction_probability": 0.5467609167098999,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 302,
+        "actual_label": 0,
+        "prediction_probability": 0.5581173896789551,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 303,
+        "actual_label": 0,
+        "prediction_probability": 0.5485456585884094,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 304,
+        "actual_label": 0,
+        "prediction_probability": 0.5521495342254639,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 305,
+        "actual_label": 0,
+        "prediction_probability": 0.5549094676971436,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 306,
+        "actual_label": 0,
+        "prediction_probability": 0.499239981174469,
+        "decision": "normal"
+    },
+    {
+        "time_step": 307,
+        "actual_label": 0,
+        "prediction_probability": 0.41034603118896484,
+        "decision": "normal"
+    },
+    {
+        "time_step": 308,
+        "actual_label": 0,
+        "prediction_probability": 0.38046732544898987,
+        "decision": "normal"
+    },
+    {
+        "time_step": 309,
+        "actual_label": 0,
+        "prediction_probability": 0.3745155334472656,
+        "decision": "normal"
+    },
+    {
+        "time_step": 310,
+        "actual_label": 0,
+        "prediction_probability": 0.41807079315185547,
+        "decision": "normal"
+    },
+    {
+        "time_step": 311,
+        "actual_label": 0,
+        "prediction_probability": 0.4313368797302246,
+        "decision": "normal"
+    },
+    {
+        "time_step": 312,
+        "actual_label": 0,
+        "prediction_probability": 0.531691312789917,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 313,
+        "actual_label": 0,
+        "prediction_probability": 0.5140478014945984,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 314,
+        "actual_label": 0,
+        "prediction_probability": 0.5321412086486816,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 315,
+        "actual_label": 0,
+        "prediction_probability": 0.48366692662239075,
+        "decision": "normal"
+    },
+    {
+        "time_step": 316,
+        "actual_label": 0,
+        "prediction_probability": 0.44754886627197266,
+        "decision": "normal"
+    },
+    {
+        "time_step": 317,
+        "actual_label": 0,
+        "prediction_probability": 0.4270605146884918,
+        "decision": "normal"
+    },
+    {
+        "time_step": 318,
+        "actual_label": 0,
+        "prediction_probability": 0.45167213678359985,
+        "decision": "normal"
+    },
+    {
+        "time_step": 319,
+        "actual_label": 0,
+        "prediction_probability": 0.5322878360748291,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 320,
+        "actual_label": 0,
+        "prediction_probability": 0.47910210490226746,
+        "decision": "normal"
+    },
+    {
+        "time_step": 321,
+        "actual_label": 0,
+        "prediction_probability": 0.46160513162612915,
+        "decision": "normal"
+    },
+    {
+        "time_step": 322,
+        "actual_label": 0,
+        "prediction_probability": 0.5113974809646606,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 323,
+        "actual_label": 0,
+        "prediction_probability": 0.4354385435581207,
+        "decision": "normal"
+    },
+    {
+        "time_step": 324,
+        "actual_label": 0,
+        "prediction_probability": 0.4073079228401184,
+        "decision": "normal"
+    },
+    {
+        "time_step": 325,
+        "actual_label": 0,
+        "prediction_probability": 0.43608358502388,
+        "decision": "normal"
+    },
+    {
+        "time_step": 326,
+        "actual_label": 0,
+        "prediction_probability": 0.534665584564209,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 327,
+        "actual_label": 0,
+        "prediction_probability": 0.5541661977767944,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 328,
+        "actual_label": 0,
+        "prediction_probability": 0.5317621827125549,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 329,
+        "actual_label": 0,
+        "prediction_probability": 0.5491208434104919,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 330,
+        "actual_label": 0,
+        "prediction_probability": 0.5546383857727051,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 331,
+        "actual_label": 0,
+        "prediction_probability": 0.5588918924331665,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 332,
+        "actual_label": 0,
+        "prediction_probability": 0.5024802088737488,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 333,
+        "actual_label": 0,
+        "prediction_probability": 0.4804672598838806,
+        "decision": "normal"
+    },
+    {
+        "time_step": 334,
+        "actual_label": 0,
+        "prediction_probability": 0.46657899022102356,
+        "decision": "normal"
+    },
+    {
+        "time_step": 335,
+        "actual_label": 0,
+        "prediction_probability": 0.47232598066329956,
+        "decision": "normal"
+    },
+    {
+        "time_step": 336,
+        "actual_label": 0,
+        "prediction_probability": 0.5145843029022217,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 337,
+        "actual_label": 0,
+        "prediction_probability": 0.5038151741027832,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 338,
+        "actual_label": 0,
+        "prediction_probability": 0.527799665927887,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 339,
+        "actual_label": 0,
+        "prediction_probability": 0.5600842237472534,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 340,
+        "actual_label": 0,
+        "prediction_probability": 0.5638989210128784,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 341,
+        "actual_label": 0,
+        "prediction_probability": 0.5623061060905457,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 342,
+        "actual_label": 0,
+        "prediction_probability": 0.5672062635421753,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 343,
+        "actual_label": 0,
+        "prediction_probability": 0.5095721483230591,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 344,
+        "actual_label": 0,
+        "prediction_probability": 0.4776066243648529,
+        "decision": "normal"
+    },
+    {
+        "time_step": 345,
+        "actual_label": 0,
+        "prediction_probability": 0.3600750267505646,
+        "decision": "normal"
+    },
+    {
+        "time_step": 346,
+        "actual_label": 0,
+        "prediction_probability": 0.3425818085670471,
+        "decision": "normal"
+    },
+    {
+        "time_step": 347,
+        "actual_label": 0,
+        "prediction_probability": 0.32839351892471313,
+        "decision": "normal"
+    },
+    {
+        "time_step": 348,
+        "actual_label": 0,
+        "prediction_probability": 0.3473476767539978,
+        "decision": "normal"
+    },
+    {
+        "time_step": 349,
+        "actual_label": 0,
+        "prediction_probability": 0.40654027462005615,
+        "decision": "normal"
+    },
+    {
+        "time_step": 350,
+        "actual_label": 0,
+        "prediction_probability": 0.4216386675834656,
+        "decision": "normal"
+    },
+    {
+        "time_step": 351,
+        "actual_label": 0,
+        "prediction_probability": 0.47531142830848694,
+        "decision": "normal"
+    },
+    {
+        "time_step": 352,
+        "actual_label": 0,
+        "prediction_probability": 0.4289766252040863,
+        "decision": "normal"
+    },
+    {
+        "time_step": 353,
+        "actual_label": 0,
+        "prediction_probability": 0.4122030735015869,
+        "decision": "normal"
+    },
+    {
+        "time_step": 354,
+        "actual_label": 0,
+        "prediction_probability": 0.4024009108543396,
+        "decision": "normal"
+    },
+    {
+        "time_step": 355,
+        "actual_label": 0,
+        "prediction_probability": 0.4709731340408325,
+        "decision": "normal"
+    },
+    {
+        "time_step": 356,
+        "actual_label": 0,
+        "prediction_probability": 0.44392460584640503,
+        "decision": "normal"
+    },
+    {
+        "time_step": 357,
+        "actual_label": 0,
+        "prediction_probability": 0.4341038167476654,
+        "decision": "normal"
+    },
+    {
+        "time_step": 358,
+        "actual_label": 0,
+        "prediction_probability": 0.437381774187088,
+        "decision": "normal"
+    },
+    {
+        "time_step": 359,
+        "actual_label": 0,
+        "prediction_probability": 0.4425252079963684,
+        "decision": "normal"
+    },
+    {
+        "time_step": 360,
+        "actual_label": 0,
+        "prediction_probability": 0.5295612812042236,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 361,
+        "actual_label": 0,
+        "prediction_probability": 0.5188252925872803,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 362,
+        "actual_label": 0,
+        "prediction_probability": 0.5350282192230225,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 363,
+        "actual_label": 0,
+        "prediction_probability": 0.5687688589096069,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 364,
+        "actual_label": 0,
+        "prediction_probability": 0.5729285478591919,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 365,
+        "actual_label": 0,
+        "prediction_probability": 0.5414822101593018,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 366,
+        "actual_label": 0,
+        "prediction_probability": 0.5298198461532593,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 367,
+        "actual_label": 0,
+        "prediction_probability": 0.5284528136253357,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 368,
+        "actual_label": 0,
+        "prediction_probability": 0.5301845073699951,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 369,
+        "actual_label": 0,
+        "prediction_probability": 0.5479753613471985,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 370,
+        "actual_label": 0,
+        "prediction_probability": 0.548241376876831,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 371,
+        "actual_label": 0,
+        "prediction_probability": 0.5376870632171631,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 372,
+        "actual_label": 0,
+        "prediction_probability": 0.5365220904350281,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 373,
+        "actual_label": 0,
+        "prediction_probability": 0.5497925281524658,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 374,
+        "actual_label": 0,
+        "prediction_probability": 0.5529258251190186,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 375,
+        "actual_label": 0,
+        "prediction_probability": 0.5450085401535034,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 376,
+        "actual_label": 0,
+        "prediction_probability": 0.5134823322296143,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 377,
+        "actual_label": 0,
+        "prediction_probability": 0.48821085691452026,
+        "decision": "normal"
+    },
+    {
+        "time_step": 378,
+        "actual_label": 0,
+        "prediction_probability": 0.47520047426223755,
+        "decision": "normal"
+    },
+    {
+        "time_step": 379,
+        "actual_label": 0,
+        "prediction_probability": 0.4044574499130249,
+        "decision": "normal"
+    },
+    {
+        "time_step": 380,
+        "actual_label": 0,
+        "prediction_probability": 0.38358548283576965,
+        "decision": "normal"
+    },
+    {
+        "time_step": 381,
+        "actual_label": 0,
+        "prediction_probability": 0.4239524304866791,
+        "decision": "normal"
+    },
+    {
+        "time_step": 382,
+        "actual_label": 0,
+        "prediction_probability": 0.4350384771823883,
+        "decision": "normal"
+    },
+    {
+        "time_step": 383,
+        "actual_label": 0,
+        "prediction_probability": 0.49354952573776245,
+        "decision": "normal"
+    },
+    {
+        "time_step": 384,
+        "actual_label": 0,
+        "prediction_probability": 0.5363723039627075,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 385,
+        "actual_label": 0,
+        "prediction_probability": 0.5443767309188843,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 386,
+        "actual_label": 0,
+        "prediction_probability": 0.5678783655166626,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 387,
+        "actual_label": 0,
+        "prediction_probability": 0.5448204278945923,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 388,
+        "actual_label": 0,
+        "prediction_probability": 0.5327250957489014,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 389,
+        "actual_label": 0,
+        "prediction_probability": 0.5442550182342529,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 390,
+        "actual_label": 0,
+        "prediction_probability": 0.5360965132713318,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 391,
+        "actual_label": 0,
+        "prediction_probability": 0.5665816068649292,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 392,
+        "actual_label": 0,
+        "prediction_probability": 0.5745307207107544,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 393,
+        "actual_label": 0,
+        "prediction_probability": 0.5131542682647705,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 394,
+        "actual_label": 0,
+        "prediction_probability": 0.48453840613365173,
+        "decision": "normal"
+    },
+    {
+        "time_step": 395,
+        "actual_label": 0,
+        "prediction_probability": 0.5279724597930908,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 396,
+        "actual_label": 0,
+        "prediction_probability": 0.5072225332260132,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 397,
+        "actual_label": 0,
+        "prediction_probability": 0.5414388179779053,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 398,
+        "actual_label": 0,
+        "prediction_probability": 0.5548365712165833,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 399,
+        "actual_label": 0,
+        "prediction_probability": 0.5343873500823975,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 400,
+        "actual_label": 0,
+        "prediction_probability": 0.47640305757522583,
+        "decision": "normal"
+    },
+    {
+        "time_step": 401,
+        "actual_label": 1,
+        "prediction_probability": 0.3944559097290039,
+        "decision": "normal"
+    },
+    {
+        "time_step": 402,
+        "actual_label": 1,
+        "prediction_probability": 0.37547117471694946,
+        "decision": "normal"
+    },
+    {
+        "time_step": 403,
+        "actual_label": 1,
+        "prediction_probability": 0.36717259883880615,
+        "decision": "normal"
+    },
+    {
+        "time_step": 404,
+        "actual_label": 1,
+        "prediction_probability": 0.32395315170288086,
+        "decision": "normal"
+    },
+    {
+        "time_step": 405,
+        "actual_label": 1,
+        "prediction_probability": 0.3137490451335907,
+        "decision": "normal"
+    },
+    {
+        "time_step": 406,
+        "actual_label": 1,
+        "prediction_probability": 0.3069668114185333,
+        "decision": "normal"
+    },
+    {
+        "time_step": 407,
+        "actual_label": 1,
+        "prediction_probability": 0.3605087995529175,
+        "decision": "normal"
+    },
+    {
+        "time_step": 408,
+        "actual_label": 1,
+        "prediction_probability": 0.3856244683265686,
+        "decision": "normal"
+    },
+    {
+        "time_step": 409,
+        "actual_label": 1,
+        "prediction_probability": 0.5068004131317139,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 410,
+        "actual_label": 1,
+        "prediction_probability": 0.537638783454895,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 411,
+        "actual_label": 1,
+        "prediction_probability": 0.5556306838989258,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 412,
+        "actual_label": 1,
+        "prediction_probability": 0.5025253891944885,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 413,
+        "actual_label": 1,
+        "prediction_probability": 0.42193421721458435,
+        "decision": "normal"
+    },
+    {
+        "time_step": 414,
+        "actual_label": 1,
+        "prediction_probability": 0.40089327096939087,
+        "decision": "normal"
+    },
+    {
+        "time_step": 415,
+        "actual_label": 1,
+        "prediction_probability": 0.40347161889076233,
+        "decision": "normal"
+    },
+    {
+        "time_step": 416,
+        "actual_label": 1,
+        "prediction_probability": 0.36865976452827454,
+        "decision": "normal"
+    },
+    {
+        "time_step": 417,
+        "actual_label": 1,
+        "prediction_probability": 0.468279093503952,
+        "decision": "normal"
+    },
+    {
+        "time_step": 418,
+        "actual_label": 1,
+        "prediction_probability": 0.489750474691391,
+        "decision": "normal"
+    },
+    {
+        "time_step": 419,
+        "actual_label": 1,
+        "prediction_probability": 0.5267999172210693,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 420,
+        "actual_label": 1,
+        "prediction_probability": 0.4950505197048187,
+        "decision": "normal"
+    },
+    {
+        "time_step": 421,
+        "actual_label": 1,
+        "prediction_probability": 0.4911734163761139,
+        "decision": "normal"
+    },
+    {
+        "time_step": 422,
+        "actual_label": 1,
+        "prediction_probability": 0.5240377187728882,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 423,
+        "actual_label": 1,
+        "prediction_probability": 0.49690383672714233,
+        "decision": "normal"
+    },
+    {
+        "time_step": 424,
+        "actual_label": 1,
+        "prediction_probability": 0.48905694484710693,
+        "decision": "normal"
+    },
+    {
+        "time_step": 425,
+        "actual_label": 1,
+        "prediction_probability": 0.5253956317901611,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 426,
+        "actual_label": 1,
+        "prediction_probability": 0.49917662143707275,
+        "decision": "normal"
+    },
+    {
+        "time_step": 427,
+        "actual_label": 1,
+        "prediction_probability": 0.44839099049568176,
+        "decision": "normal"
+    },
+    {
+        "time_step": 428,
+        "actual_label": 1,
+        "prediction_probability": 0.4308913052082062,
+        "decision": "normal"
+    },
+    {
+        "time_step": 429,
+        "actual_label": 1,
+        "prediction_probability": 0.4304058849811554,
+        "decision": "normal"
+    },
+    {
+        "time_step": 430,
+        "actual_label": 1,
+        "prediction_probability": 0.5077831745147705,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 431,
+        "actual_label": 1,
+        "prediction_probability": 0.5444011688232422,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 432,
+        "actual_label": 1,
+        "prediction_probability": 0.5452008247375488,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 433,
+        "actual_label": 1,
+        "prediction_probability": 0.5461862683296204,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 434,
+        "actual_label": 1,
+        "prediction_probability": 0.5269142389297485,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 435,
+        "actual_label": 1,
+        "prediction_probability": 0.5613088607788086,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 436,
+        "actual_label": 1,
+        "prediction_probability": 0.5501416921615601,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 437,
+        "actual_label": 1,
+        "prediction_probability": 0.48023754358291626,
+        "decision": "normal"
+    },
+    {
+        "time_step": 438,
+        "actual_label": 1,
+        "prediction_probability": 0.44063642621040344,
+        "decision": "normal"
+    },
+    {
+        "time_step": 439,
+        "actual_label": 1,
+        "prediction_probability": 0.4281276762485504,
+        "decision": "normal"
+    },
+    {
+        "time_step": 440,
+        "actual_label": 1,
+        "prediction_probability": 0.3721715211868286,
+        "decision": "normal"
+    },
+    {
+        "time_step": 441,
+        "actual_label": 1,
+        "prediction_probability": 0.40043604373931885,
+        "decision": "normal"
+    },
+    {
+        "time_step": 442,
+        "actual_label": 1,
+        "prediction_probability": 0.4633910357952118,
+        "decision": "normal"
+    },
+    {
+        "time_step": 443,
+        "actual_label": 1,
+        "prediction_probability": 0.37735646963119507,
+        "decision": "normal"
+    },
+    {
+        "time_step": 444,
+        "actual_label": 1,
+        "prediction_probability": 0.3897840976715088,
+        "decision": "normal"
+    },
+    {
+        "time_step": 445,
+        "actual_label": 1,
+        "prediction_probability": 0.4442926049232483,
+        "decision": "normal"
+    },
+    {
+        "time_step": 446,
+        "actual_label": 1,
+        "prediction_probability": 0.40849000215530396,
+        "decision": "normal"
+    },
+    {
+        "time_step": 447,
+        "actual_label": 1,
+        "prediction_probability": 0.3941078186035156,
+        "decision": "normal"
+    },
+    {
+        "time_step": 448,
+        "actual_label": 1,
+        "prediction_probability": 0.38781243562698364,
+        "decision": "normal"
+    },
+    {
+        "time_step": 449,
+        "actual_label": 1,
+        "prediction_probability": 0.38539350032806396,
+        "decision": "normal"
+    },
+    {
+        "time_step": 450,
+        "actual_label": 1,
+        "prediction_probability": 0.3812093436717987,
+        "decision": "normal"
+    },
+    {
+        "time_step": 451,
+        "actual_label": 1,
+        "prediction_probability": 0.3782854378223419,
+        "decision": "normal"
+    },
+    {
+        "time_step": 452,
+        "actual_label": 1,
+        "prediction_probability": 0.3484501838684082,
+        "decision": "normal"
+    },
+    {
+        "time_step": 453,
+        "actual_label": 1,
+        "prediction_probability": 0.38888129591941833,
+        "decision": "normal"
+    },
+    {
+        "time_step": 454,
+        "actual_label": 1,
+        "prediction_probability": 0.5064901113510132,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 455,
+        "actual_label": 1,
+        "prediction_probability": 0.5388550162315369,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 456,
+        "actual_label": 1,
+        "prediction_probability": 0.5557700395584106,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 457,
+        "actual_label": 1,
+        "prediction_probability": 0.5465376973152161,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 458,
+        "actual_label": 1,
+        "prediction_probability": 0.5594325661659241,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 459,
+        "actual_label": 1,
+        "prediction_probability": 0.5606729984283447,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 460,
+        "actual_label": 1,
+        "prediction_probability": 0.5706111788749695,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 461,
+        "actual_label": 1,
+        "prediction_probability": 0.53087317943573,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 462,
+        "actual_label": 1,
+        "prediction_probability": 0.5060126781463623,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 463,
+        "actual_label": 1,
+        "prediction_probability": 0.4975856840610504,
+        "decision": "normal"
+    },
+    {
+        "time_step": 464,
+        "actual_label": 1,
+        "prediction_probability": 0.4060764014720917,
+        "decision": "normal"
+    },
+    {
+        "time_step": 465,
+        "actual_label": 1,
+        "prediction_probability": 0.421345055103302,
+        "decision": "normal"
+    },
+    {
+        "time_step": 466,
+        "actual_label": 1,
+        "prediction_probability": 0.4235140085220337,
+        "decision": "normal"
+    },
+    {
+        "time_step": 467,
+        "actual_label": 1,
+        "prediction_probability": 0.5312590599060059,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 468,
+        "actual_label": 1,
+        "prediction_probability": 0.5434282422065735,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 469,
+        "actual_label": 1,
+        "prediction_probability": 0.40510663390159607,
+        "decision": "normal"
+    },
+    {
+        "time_step": 470,
+        "actual_label": 1,
+        "prediction_probability": 0.39386221766471863,
+        "decision": "normal"
+    },
+    {
+        "time_step": 471,
+        "actual_label": 1,
+        "prediction_probability": 0.43486955761909485,
+        "decision": "normal"
+    },
+    {
+        "time_step": 472,
+        "actual_label": 1,
+        "prediction_probability": 0.4591578245162964,
+        "decision": "normal"
+    },
+    {
+        "time_step": 473,
+        "actual_label": 1,
+        "prediction_probability": 0.4568999409675598,
+        "decision": "normal"
+    },
+    {
+        "time_step": 474,
+        "actual_label": 0,
+        "prediction_probability": 0.5098307728767395,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 475,
+        "actual_label": 0,
+        "prediction_probability": 0.47191378474235535,
+        "decision": "normal"
+    },
+    {
+        "time_step": 476,
+        "actual_label": 0,
+        "prediction_probability": 0.4639747440814972,
+        "decision": "normal"
+    },
+    {
+        "time_step": 477,
+        "actual_label": 0,
+        "prediction_probability": 0.4202546775341034,
+        "decision": "normal"
+    },
+    {
+        "time_step": 478,
+        "actual_label": 0,
+        "prediction_probability": 0.38521692156791687,
+        "decision": "normal"
+    },
+    {
+        "time_step": 479,
+        "actual_label": 0,
+        "prediction_probability": 0.49953070282936096,
+        "decision": "normal"
+    },
+    {
+        "time_step": 480,
+        "actual_label": 0,
+        "prediction_probability": 0.546751856803894,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 481,
+        "actual_label": 0,
+        "prediction_probability": 0.5567615628242493,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 482,
+        "actual_label": 0,
+        "prediction_probability": 0.5603741407394409,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 483,
+        "actual_label": 0,
+        "prediction_probability": 0.5630015730857849,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 484,
+        "actual_label": 0,
+        "prediction_probability": 0.5681307315826416,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 485,
+        "actual_label": 0,
+        "prediction_probability": 0.5686585903167725,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 486,
+        "actual_label": 0,
+        "prediction_probability": 0.5755379796028137,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 487,
+        "actual_label": 0,
+        "prediction_probability": 0.5161458253860474,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 488,
+        "actual_label": 0,
+        "prediction_probability": 0.420075923204422,
+        "decision": "normal"
+    },
+    {
+        "time_step": 489,
+        "actual_label": 0,
+        "prediction_probability": 0.3555317521095276,
+        "decision": "normal"
+    },
+    {
+        "time_step": 490,
+        "actual_label": 0,
+        "prediction_probability": 0.3448154628276825,
+        "decision": "normal"
+    },
+    {
+        "time_step": 491,
+        "actual_label": 0,
+        "prediction_probability": 0.3394746482372284,
+        "decision": "normal"
+    },
+    {
+        "time_step": 492,
+        "actual_label": 0,
+        "prediction_probability": 0.41292938590049744,
+        "decision": "normal"
+    },
+    {
+        "time_step": 493,
+        "actual_label": 0,
+        "prediction_probability": 0.4943523406982422,
+        "decision": "normal"
+    },
+    {
+        "time_step": 494,
+        "actual_label": 0,
+        "prediction_probability": 0.5097810626029968,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 495,
+        "actual_label": 0,
+        "prediction_probability": 0.5018057823181152,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 496,
+        "actual_label": 0,
+        "prediction_probability": 0.5075159072875977,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 497,
+        "actual_label": 0,
+        "prediction_probability": 0.4426630735397339,
+        "decision": "normal"
+    },
+    {
+        "time_step": 498,
+        "actual_label": 0,
+        "prediction_probability": 0.42409178614616394,
+        "decision": "normal"
+    },
+    {
+        "time_step": 499,
+        "actual_label": 0,
+        "prediction_probability": 0.3820858597755432,
+        "decision": "normal"
+    },
+    {
+        "time_step": 500,
+        "actual_label": 0,
+        "prediction_probability": 0.3722195327281952,
+        "decision": "normal"
+    },
+    {
+        "time_step": 501,
+        "actual_label": 0,
+        "prediction_probability": 0.3676338791847229,
+        "decision": "normal"
+    },
+    {
+        "time_step": 502,
+        "actual_label": 0,
+        "prediction_probability": 0.4289392828941345,
+        "decision": "normal"
+    },
+    {
+        "time_step": 503,
+        "actual_label": 0,
+        "prediction_probability": 0.5059108138084412,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 504,
+        "actual_label": 0,
+        "prediction_probability": 0.541069746017456,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 505,
+        "actual_label": 0,
+        "prediction_probability": 0.5269327759742737,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 506,
+        "actual_label": 0,
+        "prediction_probability": 0.5634905099868774,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 507,
+        "actual_label": 0,
+        "prediction_probability": 0.577542781829834,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 508,
+        "actual_label": 0,
+        "prediction_probability": 0.5721487998962402,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 509,
+        "actual_label": 0,
+        "prediction_probability": 0.5751540660858154,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 510,
+        "actual_label": 0,
+        "prediction_probability": 0.5740649700164795,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 511,
+        "actual_label": 0,
+        "prediction_probability": 0.5254826545715332,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 512,
+        "actual_label": 0,
+        "prediction_probability": 0.49015024304389954,
+        "decision": "normal"
+    },
+    {
+        "time_step": 513,
+        "actual_label": 0,
+        "prediction_probability": 0.4097099006175995,
+        "decision": "normal"
+    },
+    {
+        "time_step": 514,
+        "actual_label": 0,
+        "prediction_probability": 0.39005741477012634,
+        "decision": "normal"
+    },
+    {
+        "time_step": 515,
+        "actual_label": 0,
+        "prediction_probability": 0.4329933226108551,
+        "decision": "normal"
+    },
+    {
+        "time_step": 516,
+        "actual_label": 0,
+        "prediction_probability": 0.4391634464263916,
+        "decision": "normal"
+    },
+    {
+        "time_step": 517,
+        "actual_label": 0,
+        "prediction_probability": 0.43450185656547546,
+        "decision": "normal"
+    },
+    {
+        "time_step": 518,
+        "actual_label": 0,
+        "prediction_probability": 0.4326910078525543,
+        "decision": "normal"
+    },
+    {
+        "time_step": 519,
+        "actual_label": 0,
+        "prediction_probability": 0.48316964507102966,
+        "decision": "normal"
+    },
+    {
+        "time_step": 520,
+        "actual_label": 0,
+        "prediction_probability": 0.4943369925022125,
+        "decision": "normal"
+    },
+    {
+        "time_step": 521,
+        "actual_label": 0,
+        "prediction_probability": 0.49520426988601685,
+        "decision": "normal"
+    },
+    {
+        "time_step": 522,
+        "actual_label": 0,
+        "prediction_probability": 0.4915022850036621,
+        "decision": "normal"
+    },
+    {
+        "time_step": 523,
+        "actual_label": 0,
+        "prediction_probability": 0.49675923585891724,
+        "decision": "normal"
+    },
+    {
+        "time_step": 524,
+        "actual_label": 0,
+        "prediction_probability": 0.4517571032047272,
+        "decision": "normal"
+    },
+    {
+        "time_step": 525,
+        "actual_label": 0,
+        "prediction_probability": 0.4410560429096222,
+        "decision": "normal"
+    },
+    {
+        "time_step": 526,
+        "actual_label": 0,
+        "prediction_probability": 0.501145601272583,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 527,
+        "actual_label": 0,
+        "prediction_probability": 0.5158346891403198,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 528,
+        "actual_label": 0,
+        "prediction_probability": 0.543810248374939,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 529,
+        "actual_label": 0,
+        "prediction_probability": 0.5473690032958984,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 530,
+        "actual_label": 0,
+        "prediction_probability": 0.5663695335388184,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 531,
+        "actual_label": 0,
+        "prediction_probability": 0.5772299766540527,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 532,
+        "actual_label": 0,
+        "prediction_probability": 0.5771487951278687,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 533,
+        "actual_label": 0,
+        "prediction_probability": 0.5627457499504089,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 534,
+        "actual_label": 0,
+        "prediction_probability": 0.5154060125350952,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 535,
+        "actual_label": 0,
+        "prediction_probability": 0.5292075872421265,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 536,
+        "actual_label": 0,
+        "prediction_probability": 0.47321540117263794,
+        "decision": "normal"
+    },
+    {
+        "time_step": 537,
+        "actual_label": 0,
+        "prediction_probability": 0.40840601921081543,
+        "decision": "normal"
+    },
+    {
+        "time_step": 538,
+        "actual_label": 0,
+        "prediction_probability": 0.3520295321941376,
+        "decision": "normal"
+    },
+    {
+        "time_step": 539,
+        "actual_label": 0,
+        "prediction_probability": 0.40304887294769287,
+        "decision": "normal"
+    },
+    {
+        "time_step": 540,
+        "actual_label": 0,
+        "prediction_probability": 0.3483204245567322,
+        "decision": "normal"
+    },
+    {
+        "time_step": 541,
+        "actual_label": 0,
+        "prediction_probability": 0.36123403906822205,
+        "decision": "normal"
+    },
+    {
+        "time_step": 542,
+        "actual_label": 0,
+        "prediction_probability": 0.4752388596534729,
+        "decision": "normal"
+    },
+    {
+        "time_step": 543,
+        "actual_label": 0,
+        "prediction_probability": 0.44239410758018494,
+        "decision": "normal"
+    },
+    {
+        "time_step": 544,
+        "actual_label": 0,
+        "prediction_probability": 0.42043980956077576,
+        "decision": "normal"
+    },
+    {
+        "time_step": 545,
+        "actual_label": 0,
+        "prediction_probability": 0.4686650037765503,
+        "decision": "normal"
+    },
+    {
+        "time_step": 546,
+        "actual_label": 0,
+        "prediction_probability": 0.4828784167766571,
+        "decision": "normal"
+    },
+    {
+        "time_step": 547,
+        "actual_label": 0,
+        "prediction_probability": 0.4405674338340759,
+        "decision": "normal"
+    },
+    {
+        "time_step": 548,
+        "actual_label": 0,
+        "prediction_probability": 0.4213747978210449,
+        "decision": "normal"
+    },
+    {
+        "time_step": 549,
+        "actual_label": 0,
+        "prediction_probability": 0.42948514223098755,
+        "decision": "normal"
+    },
+    {
+        "time_step": 550,
+        "actual_label": 0,
+        "prediction_probability": 0.4402446746826172,
+        "decision": "normal"
+    },
+    {
+        "time_step": 551,
+        "actual_label": 0,
+        "prediction_probability": 0.44970810413360596,
+        "decision": "normal"
+    },
+    {
+        "time_step": 552,
+        "actual_label": 0,
+        "prediction_probability": 0.5031862258911133,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 553,
+        "actual_label": 0,
+        "prediction_probability": 0.5319817066192627,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 554,
+        "actual_label": 0,
+        "prediction_probability": 0.5301513671875,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 555,
+        "actual_label": 0,
+        "prediction_probability": 0.5614798665046692,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 556,
+        "actual_label": 0,
+        "prediction_probability": 0.5695770978927612,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 557,
+        "actual_label": 0,
+        "prediction_probability": 0.565943717956543,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 558,
+        "actual_label": 0,
+        "prediction_probability": 0.5652883648872375,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 559,
+        "actual_label": 0,
+        "prediction_probability": 0.5404990315437317,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 560,
+        "actual_label": 0,
+        "prediction_probability": 0.49461767077445984,
+        "decision": "normal"
+    },
+    {
+        "time_step": 561,
+        "actual_label": 0,
+        "prediction_probability": 0.4794735610485077,
+        "decision": "normal"
+    },
+    {
+        "time_step": 562,
+        "actual_label": 0,
+        "prediction_probability": 0.523720920085907,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 563,
+        "actual_label": 0,
+        "prediction_probability": 0.502507746219635,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 564,
+        "actual_label": 0,
+        "prediction_probability": 0.5221452713012695,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 565,
+        "actual_label": 0,
+        "prediction_probability": 0.5448901653289795,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 566,
+        "actual_label": 0,
+        "prediction_probability": 0.5558456182479858,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 567,
+        "actual_label": 0,
+        "prediction_probability": 0.5633384585380554,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 568,
+        "actual_label": 0,
+        "prediction_probability": 0.5686084628105164,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 569,
+        "actual_label": 0,
+        "prediction_probability": 0.5680553913116455,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 570,
+        "actual_label": 0,
+        "prediction_probability": 0.4624048173427582,
+        "decision": "normal"
+    },
+    {
+        "time_step": 571,
+        "actual_label": 0,
+        "prediction_probability": 0.4061180055141449,
+        "decision": "normal"
+    },
+    {
+        "time_step": 572,
+        "actual_label": 0,
+        "prediction_probability": 0.3744211792945862,
+        "decision": "normal"
+    },
+    {
+        "time_step": 573,
+        "actual_label": 0,
+        "prediction_probability": 0.38496094942092896,
+        "decision": "normal"
+    },
+    {
+        "time_step": 574,
+        "actual_label": 0,
+        "prediction_probability": 0.37733760476112366,
+        "decision": "normal"
+    },
+    {
+        "time_step": 575,
+        "actual_label": 0,
+        "prediction_probability": 0.3734407424926758,
+        "decision": "normal"
+    },
+    {
+        "time_step": 576,
+        "actual_label": 0,
+        "prediction_probability": 0.5244730114936829,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 577,
+        "actual_label": 0,
+        "prediction_probability": 0.5130624771118164,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 578,
+        "actual_label": 0,
+        "prediction_probability": 0.5259038209915161,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 579,
+        "actual_label": 0,
+        "prediction_probability": 0.5771123170852661,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 580,
+        "actual_label": 0,
+        "prediction_probability": 0.5829266905784607,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 581,
+        "actual_label": 0,
+        "prediction_probability": 0.577073872089386,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 582,
+        "actual_label": 0,
+        "prediction_probability": 0.5739508867263794,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 583,
+        "actual_label": 0,
+        "prediction_probability": 0.5446494817733765,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 584,
+        "actual_label": 0,
+        "prediction_probability": 0.530119001865387,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 585,
+        "actual_label": 0,
+        "prediction_probability": 0.43512916564941406,
+        "decision": "normal"
+    },
+    {
+        "time_step": 586,
+        "actual_label": 0,
+        "prediction_probability": 0.4038868844509125,
+        "decision": "normal"
+    },
+    {
+        "time_step": 587,
+        "actual_label": 0,
+        "prediction_probability": 0.48778313398361206,
+        "decision": "normal"
+    },
+    {
+        "time_step": 588,
+        "actual_label": 0,
+        "prediction_probability": 0.42008650302886963,
+        "decision": "normal"
+    },
+    {
+        "time_step": 589,
+        "actual_label": 0,
+        "prediction_probability": 0.39260903000831604,
+        "decision": "normal"
+    },
+    {
+        "time_step": 590,
+        "actual_label": 0,
+        "prediction_probability": 0.4315258860588074,
+        "decision": "normal"
+    },
+    {
+        "time_step": 591,
+        "actual_label": 0,
+        "prediction_probability": 0.48758482933044434,
+        "decision": "normal"
+    },
+    {
+        "time_step": 592,
+        "actual_label": 0,
+        "prediction_probability": 0.44079887866973877,
+        "decision": "normal"
+    },
+    {
+        "time_step": 593,
+        "actual_label": 0,
+        "prediction_probability": 0.4653247594833374,
+        "decision": "normal"
+    },
+    {
+        "time_step": 594,
+        "actual_label": 0,
+        "prediction_probability": 0.4273250102996826,
+        "decision": "normal"
+    },
+    {
+        "time_step": 595,
+        "actual_label": 0,
+        "prediction_probability": 0.41775354743003845,
+        "decision": "normal"
+    },
+    {
+        "time_step": 596,
+        "actual_label": 0,
+        "prediction_probability": 0.3773389160633087,
+        "decision": "normal"
+    },
+    {
+        "time_step": 597,
+        "actual_label": 0,
+        "prediction_probability": 0.3698716461658478,
+        "decision": "normal"
+    },
+    {
+        "time_step": 598,
+        "actual_label": 0,
+        "prediction_probability": 0.41738829016685486,
+        "decision": "normal"
+    },
+    {
+        "time_step": 599,
+        "actual_label": 0,
+        "prediction_probability": 0.4404926598072052,
+        "decision": "normal"
+    },
+    {
+        "time_step": 600,
+        "actual_label": 0,
+        "prediction_probability": 0.456581175327301,
+        "decision": "normal"
+    },
+    {
+        "time_step": 601,
+        "actual_label": 0,
+        "prediction_probability": 0.5251115560531616,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 602,
+        "actual_label": 0,
+        "prediction_probability": 0.5468649864196777,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 603,
+        "actual_label": 0,
+        "prediction_probability": 0.5593294501304626,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 604,
+        "actual_label": 0,
+        "prediction_probability": 0.49182406067848206,
+        "decision": "normal"
+    },
+    {
+        "time_step": 605,
+        "actual_label": 0,
+        "prediction_probability": 0.5089240074157715,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 606,
+        "actual_label": 0,
+        "prediction_probability": 0.5424720048904419,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 607,
+        "actual_label": 0,
+        "prediction_probability": 0.5236767530441284,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 608,
+        "actual_label": 0,
+        "prediction_probability": 0.47417354583740234,
+        "decision": "normal"
+    },
+    {
+        "time_step": 609,
+        "actual_label": 0,
+        "prediction_probability": 0.46385738253593445,
+        "decision": "normal"
+    },
+    {
+        "time_step": 610,
+        "actual_label": 0,
+        "prediction_probability": 0.5102642774581909,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 611,
+        "actual_label": 0,
+        "prediction_probability": 0.5254571437835693,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 612,
+        "actual_label": 0,
+        "prediction_probability": 0.542296290397644,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 613,
+        "actual_label": 0,
+        "prediction_probability": 0.5511367917060852,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 614,
+        "actual_label": 0,
+        "prediction_probability": 0.5638335943222046,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 615,
+        "actual_label": 0,
+        "prediction_probability": 0.5552255511283875,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 616,
+        "actual_label": 0,
+        "prediction_probability": 0.5429516434669495,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 617,
+        "actual_label": 0,
+        "prediction_probability": 0.5496580600738525,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 618,
+        "actual_label": 0,
+        "prediction_probability": 0.5298157334327698,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 619,
+        "actual_label": 0,
+        "prediction_probability": 0.5199581384658813,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 620,
+        "actual_label": 0,
+        "prediction_probability": 0.47751420736312866,
+        "decision": "normal"
+    },
+    {
+        "time_step": 621,
+        "actual_label": 0,
+        "prediction_probability": 0.510576069355011,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 622,
+        "actual_label": 0,
+        "prediction_probability": 0.5230517387390137,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 623,
+        "actual_label": 0,
+        "prediction_probability": 0.5311642289161682,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 624,
+        "actual_label": 0,
+        "prediction_probability": 0.5451275110244751,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 625,
+        "actual_label": 0,
+        "prediction_probability": 0.5506752729415894,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 626,
+        "actual_label": 0,
+        "prediction_probability": 0.5722420811653137,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 627,
+        "actual_label": 0,
+        "prediction_probability": 0.5670015811920166,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 628,
+        "actual_label": 0,
+        "prediction_probability": 0.5437432527542114,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 629,
+        "actual_label": 0,
+        "prediction_probability": 0.5472063422203064,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 630,
+        "actual_label": 0,
+        "prediction_probability": 0.5219125747680664,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 631,
+        "actual_label": 0,
+        "prediction_probability": 0.5194205641746521,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 632,
+        "actual_label": 0,
+        "prediction_probability": 0.5158752202987671,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 633,
+        "actual_label": 0,
+        "prediction_probability": 0.45167985558509827,
+        "decision": "normal"
+    },
+    {
+        "time_step": 634,
+        "actual_label": 0,
+        "prediction_probability": 0.354274183511734,
+        "decision": "normal"
+    },
+    {
+        "time_step": 635,
+        "actual_label": 0,
+        "prediction_probability": 0.38836413621902466,
+        "decision": "normal"
+    },
+    {
+        "time_step": 636,
+        "actual_label": 0,
+        "prediction_probability": 0.36539116501808167,
+        "decision": "normal"
+    },
+    {
+        "time_step": 637,
+        "actual_label": 0,
+        "prediction_probability": 0.36289897561073303,
+        "decision": "normal"
+    },
+    {
+        "time_step": 638,
+        "actual_label": 0,
+        "prediction_probability": 0.40286219120025635,
+        "decision": "normal"
+    },
+    {
+        "time_step": 639,
+        "actual_label": 0,
+        "prediction_probability": 0.4136226773262024,
+        "decision": "normal"
+    },
+    {
+        "time_step": 640,
+        "actual_label": 0,
+        "prediction_probability": 0.5239959955215454,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 641,
+        "actual_label": 0,
+        "prediction_probability": 0.5096316337585449,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 642,
+        "actual_label": 0,
+        "prediction_probability": 0.49404773116111755,
+        "decision": "normal"
+    },
+    {
+        "time_step": 643,
+        "actual_label": 0,
+        "prediction_probability": 0.42982324957847595,
+        "decision": "normal"
+    },
+    {
+        "time_step": 644,
+        "actual_label": 0,
+        "prediction_probability": 0.43053045868873596,
+        "decision": "normal"
+    },
+    {
+        "time_step": 645,
+        "actual_label": 0,
+        "prediction_probability": 0.43261003494262695,
+        "decision": "normal"
+    },
+    {
+        "time_step": 646,
+        "actual_label": 0,
+        "prediction_probability": 0.44383421540260315,
+        "decision": "normal"
+    },
+    {
+        "time_step": 647,
+        "actual_label": 0,
+        "prediction_probability": 0.45040735602378845,
+        "decision": "normal"
+    },
+    {
+        "time_step": 648,
+        "actual_label": 0,
+        "prediction_probability": 0.4919770359992981,
+        "decision": "normal"
+    },
+    {
+        "time_step": 649,
+        "actual_label": 0,
+        "prediction_probability": 0.5192188024520874,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 650,
+        "actual_label": 0,
+        "prediction_probability": 0.5410982370376587,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 651,
+        "actual_label": 0,
+        "prediction_probability": 0.5642722249031067,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 652,
+        "actual_label": 0,
+        "prediction_probability": 0.5744436979293823,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 653,
+        "actual_label": 0,
+        "prediction_probability": 0.5728681087493896,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 654,
+        "actual_label": 0,
+        "prediction_probability": 0.5666776895523071,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 655,
+        "actual_label": 0,
+        "prediction_probability": 0.5667921304702759,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 656,
+        "actual_label": 0,
+        "prediction_probability": 0.5425623655319214,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 657,
+        "actual_label": 0,
+        "prediction_probability": 0.4957233667373657,
+        "decision": "normal"
+    },
+    {
+        "time_step": 658,
+        "actual_label": 0,
+        "prediction_probability": 0.477240651845932,
+        "decision": "normal"
+    },
+    {
+        "time_step": 659,
+        "actual_label": 0,
+        "prediction_probability": 0.4784400463104248,
+        "decision": "normal"
+    },
+    {
+        "time_step": 660,
+        "actual_label": 0,
+        "prediction_probability": 0.5325677394866943,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 661,
+        "actual_label": 0,
+        "prediction_probability": 0.5470993518829346,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 662,
+        "actual_label": 0,
+        "prediction_probability": 0.5620195269584656,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 663,
+        "actual_label": 0,
+        "prediction_probability": 0.5707088112831116,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 664,
+        "actual_label": 0,
+        "prediction_probability": 0.5652138590812683,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 665,
+        "actual_label": 0,
+        "prediction_probability": 0.5399835109710693,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 666,
+        "actual_label": 0,
+        "prediction_probability": 0.48853299021720886,
+        "decision": "normal"
+    },
+    {
+        "time_step": 667,
+        "actual_label": 0,
+        "prediction_probability": 0.4011291265487671,
+        "decision": "normal"
+    },
+    {
+        "time_step": 668,
+        "actual_label": 0,
+        "prediction_probability": 0.3756368160247803,
+        "decision": "normal"
+    },
+    {
+        "time_step": 669,
+        "actual_label": 0,
+        "prediction_probability": 0.3682624101638794,
+        "decision": "normal"
+    },
+    {
+        "time_step": 670,
+        "actual_label": 0,
+        "prediction_probability": 0.40949738025665283,
+        "decision": "normal"
+    },
+    {
+        "time_step": 671,
+        "actual_label": 0,
+        "prediction_probability": 0.4903298318386078,
+        "decision": "normal"
+    },
+    {
+        "time_step": 672,
+        "actual_label": 0,
+        "prediction_probability": 0.5396366119384766,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 673,
+        "actual_label": 0,
+        "prediction_probability": 0.5154424905776978,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 674,
+        "actual_label": 0,
+        "prediction_probability": 0.5505141019821167,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 675,
+        "actual_label": 0,
+        "prediction_probability": 0.5726935863494873,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 676,
+        "actual_label": 0,
+        "prediction_probability": 0.573421835899353,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 677,
+        "actual_label": 0,
+        "prediction_probability": 0.5566630363464355,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 678,
+        "actual_label": 0,
+        "prediction_probability": 0.5025500059127808,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 679,
+        "actual_label": 0,
+        "prediction_probability": 0.5121551156044006,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 680,
+        "actual_label": 0,
+        "prediction_probability": 0.5159131288528442,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 681,
+        "actual_label": 0,
+        "prediction_probability": 0.4362410306930542,
+        "decision": "normal"
+    },
+    {
+        "time_step": 682,
+        "actual_label": 0,
+        "prediction_probability": 0.46390700340270996,
+        "decision": "normal"
+    },
+    {
+        "time_step": 683,
+        "actual_label": 0,
+        "prediction_probability": 0.5078498125076294,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 684,
+        "actual_label": 0,
+        "prediction_probability": 0.4857938885688782,
+        "decision": "normal"
+    },
+    {
+        "time_step": 685,
+        "actual_label": 0,
+        "prediction_probability": 0.4174501299858093,
+        "decision": "normal"
+    },
+    {
+        "time_step": 686,
+        "actual_label": 0,
+        "prediction_probability": 0.43541020154953003,
+        "decision": "normal"
+    },
+    {
+        "time_step": 687,
+        "actual_label": 0,
+        "prediction_probability": 0.5066289901733398,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 688,
+        "actual_label": 0,
+        "prediction_probability": 0.5169854760169983,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 689,
+        "actual_label": 0,
+        "prediction_probability": 0.4829888343811035,
+        "decision": "normal"
+    },
+    {
+        "time_step": 690,
+        "actual_label": 0,
+        "prediction_probability": 0.4709806740283966,
+        "decision": "normal"
+    },
+    {
+        "time_step": 691,
+        "actual_label": 0,
+        "prediction_probability": 0.45363476872444153,
+        "decision": "normal"
+    },
+    {
+        "time_step": 692,
+        "actual_label": 0,
+        "prediction_probability": 0.4577800929546356,
+        "decision": "normal"
+    },
+    {
+        "time_step": 693,
+        "actual_label": 0,
+        "prediction_probability": 0.46068280935287476,
+        "decision": "normal"
+    },
+    {
+        "time_step": 694,
+        "actual_label": 0,
+        "prediction_probability": 0.516090989112854,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 695,
+        "actual_label": 0,
+        "prediction_probability": 0.5443887710571289,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 696,
+        "actual_label": 0,
+        "prediction_probability": 0.5507307052612305,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 697,
+        "actual_label": 0,
+        "prediction_probability": 0.558349609375,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 698,
+        "actual_label": 0,
+        "prediction_probability": 0.5771613121032715,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 699,
+        "actual_label": 0,
+        "prediction_probability": 0.5546535849571228,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 700,
+        "actual_label": 0,
+        "prediction_probability": 0.5598411560058594,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 701,
+        "actual_label": 0,
+        "prediction_probability": 0.5587753057479858,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 702,
+        "actual_label": 0,
+        "prediction_probability": 0.5564824938774109,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 703,
+        "actual_label": 0,
+        "prediction_probability": 0.5474441051483154,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 704,
+        "actual_label": 0,
+        "prediction_probability": 0.48003679513931274,
+        "decision": "normal"
+    },
+    {
+        "time_step": 705,
+        "actual_label": 0,
+        "prediction_probability": 0.4539993703365326,
+        "decision": "normal"
+    },
+    {
+        "time_step": 706,
+        "actual_label": 0,
+        "prediction_probability": 0.39692217111587524,
+        "decision": "normal"
+    },
+    {
+        "time_step": 707,
+        "actual_label": 0,
+        "prediction_probability": 0.3784902095794678,
+        "decision": "normal"
+    },
+    {
+        "time_step": 708,
+        "actual_label": 0,
+        "prediction_probability": 0.4252523183822632,
+        "decision": "normal"
+    },
+    {
+        "time_step": 709,
+        "actual_label": 0,
+        "prediction_probability": 0.4910157024860382,
+        "decision": "normal"
+    },
+    {
+        "time_step": 710,
+        "actual_label": 0,
+        "prediction_probability": 0.5052897930145264,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 711,
+        "actual_label": 0,
+        "prediction_probability": 0.49976012110710144,
+        "decision": "normal"
+    },
+    {
+        "time_step": 712,
+        "actual_label": 0,
+        "prediction_probability": 0.5322024822235107,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 713,
+        "actual_label": 0,
+        "prediction_probability": 0.5431772470474243,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 714,
+        "actual_label": 0,
+        "prediction_probability": 0.5482951402664185,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 715,
+        "actual_label": 0,
+        "prediction_probability": 0.5195871591567993,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 716,
+        "actual_label": 0,
+        "prediction_probability": 0.4682920575141907,
+        "decision": "normal"
+    },
+    {
+        "time_step": 717,
+        "actual_label": 0,
+        "prediction_probability": 0.45041602849960327,
+        "decision": "normal"
+    },
+    {
+        "time_step": 718,
+        "actual_label": 0,
+        "prediction_probability": 0.45890477299690247,
+        "decision": "normal"
+    },
+    {
+        "time_step": 719,
+        "actual_label": 0,
+        "prediction_probability": 0.461839497089386,
+        "decision": "normal"
+    },
+    {
+        "time_step": 720,
+        "actual_label": 0,
+        "prediction_probability": 0.512169599533081,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 721,
+        "actual_label": 0,
+        "prediction_probability": 0.5031117796897888,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 722,
+        "actual_label": 0,
+        "prediction_probability": 0.5268734693527222,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 723,
+        "actual_label": 0,
+        "prediction_probability": 0.5689741969108582,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 724,
+        "actual_label": 0,
+        "prediction_probability": 0.5796095728874207,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 725,
+        "actual_label": 0,
+        "prediction_probability": 0.5628020763397217,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 726,
+        "actual_label": 0,
+        "prediction_probability": 0.5614752769470215,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 727,
+        "actual_label": 0,
+        "prediction_probability": 0.5589505434036255,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 728,
+        "actual_label": 0,
+        "prediction_probability": 0.4425562620162964,
+        "decision": "normal"
+    },
+    {
+        "time_step": 729,
+        "actual_label": 0,
+        "prediction_probability": 0.3600262403488159,
+        "decision": "normal"
+    },
+    {
+        "time_step": 730,
+        "actual_label": 0,
+        "prediction_probability": 0.3372839093208313,
+        "decision": "normal"
+    },
+    {
+        "time_step": 731,
+        "actual_label": 0,
+        "prediction_probability": 0.367899090051651,
+        "decision": "normal"
+    },
+    {
+        "time_step": 732,
+        "actual_label": 0,
+        "prediction_probability": 0.41984525322914124,
+        "decision": "normal"
+    },
+    {
+        "time_step": 733,
+        "actual_label": 0,
+        "prediction_probability": 0.4973234534263611,
+        "decision": "normal"
+    },
+    {
+        "time_step": 734,
+        "actual_label": 0,
+        "prediction_probability": 0.5164154171943665,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 735,
+        "actual_label": 0,
+        "prediction_probability": 0.5215400457382202,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 736,
+        "actual_label": 0,
+        "prediction_probability": 0.4445849061012268,
+        "decision": "normal"
+    },
+    {
+        "time_step": 737,
+        "actual_label": 0,
+        "prediction_probability": 0.41992032527923584,
+        "decision": "normal"
+    },
+    {
+        "time_step": 738,
+        "actual_label": 0,
+        "prediction_probability": 0.42024698853492737,
+        "decision": "normal"
+    },
+    {
+        "time_step": 739,
+        "actual_label": 0,
+        "prediction_probability": 0.42460742592811584,
+        "decision": "normal"
+    },
+    {
+        "time_step": 740,
+        "actual_label": 0,
+        "prediction_probability": 0.381398469209671,
+        "decision": "normal"
+    },
+    {
+        "time_step": 741,
+        "actual_label": 0,
+        "prediction_probability": 0.37199684977531433,
+        "decision": "normal"
+    },
+    {
+        "time_step": 742,
+        "actual_label": 0,
+        "prediction_probability": 0.4294188618659973,
+        "decision": "normal"
+    },
+    {
+        "time_step": 743,
+        "actual_label": 0,
+        "prediction_probability": 0.5074681043624878,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 744,
+        "actual_label": 0,
+        "prediction_probability": 0.5451843738555908,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 745,
+        "actual_label": 0,
+        "prediction_probability": 0.5236130952835083,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 746,
+        "actual_label": 0,
+        "prediction_probability": 0.5449509620666504,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 747,
+        "actual_label": 0,
+        "prediction_probability": 0.5698919296264648,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 748,
+        "actual_label": 0,
+        "prediction_probability": 0.5726850032806396,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 749,
+        "actual_label": 0,
+        "prediction_probability": 0.5449190139770508,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 750,
+        "actual_label": 0,
+        "prediction_probability": 0.5350357294082642,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 751,
+        "actual_label": 0,
+        "prediction_probability": 0.529983639717102,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 752,
+        "actual_label": 0,
+        "prediction_probability": 0.547958254814148,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 753,
+        "actual_label": 0,
+        "prediction_probability": 0.5596075057983398,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 754,
+        "actual_label": 0,
+        "prediction_probability": 0.464017778635025,
+        "decision": "normal"
+    },
+    {
+        "time_step": 755,
+        "actual_label": 0,
+        "prediction_probability": 0.46505117416381836,
+        "decision": "normal"
+    },
+    {
+        "time_step": 756,
+        "actual_label": 0,
+        "prediction_probability": 0.4561695456504822,
+        "decision": "normal"
+    },
+    {
+        "time_step": 757,
+        "actual_label": 0,
+        "prediction_probability": 0.5187313556671143,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 758,
+        "actual_label": 0,
+        "prediction_probability": 0.5236433744430542,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 759,
+        "actual_label": 0,
+        "prediction_probability": 0.4678429663181305,
+        "decision": "normal"
+    },
+    {
+        "time_step": 760,
+        "actual_label": 0,
+        "prediction_probability": 0.43783703446388245,
+        "decision": "normal"
+    },
+    {
+        "time_step": 761,
+        "actual_label": 0,
+        "prediction_probability": 0.48012885451316833,
+        "decision": "normal"
+    },
+    {
+        "time_step": 762,
+        "actual_label": 0,
+        "prediction_probability": 0.4901944100856781,
+        "decision": "normal"
+    },
+    {
+        "time_step": 763,
+        "actual_label": 0,
+        "prediction_probability": 0.44394171237945557,
+        "decision": "normal"
+    },
+    {
+        "time_step": 764,
+        "actual_label": 0,
+        "prediction_probability": 0.43312597274780273,
+        "decision": "normal"
+    },
+    {
+        "time_step": 765,
+        "actual_label": 0,
+        "prediction_probability": 0.486614853143692,
+        "decision": "normal"
+    },
+    {
+        "time_step": 766,
+        "actual_label": 0,
+        "prediction_probability": 0.5051796436309814,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 767,
+        "actual_label": 0,
+        "prediction_probability": 0.5154353380203247,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 768,
+        "actual_label": 0,
+        "prediction_probability": 0.5416843891143799,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 769,
+        "actual_label": 0,
+        "prediction_probability": 0.5458246469497681,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 770,
+        "actual_label": 0,
+        "prediction_probability": 0.5653737783432007,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 771,
+        "actual_label": 0,
+        "prediction_probability": 0.5525596737861633,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 772,
+        "actual_label": 0,
+        "prediction_probability": 0.5471489429473877,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 773,
+        "actual_label": 0,
+        "prediction_probability": 0.5497398376464844,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 774,
+        "actual_label": 0,
+        "prediction_probability": 0.5439021587371826,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 775,
+        "actual_label": 0,
+        "prediction_probability": 0.5372037887573242,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 776,
+        "actual_label": 0,
+        "prediction_probability": 0.3974335491657257,
+        "decision": "normal"
+    },
+    {
+        "time_step": 777,
+        "actual_label": 0,
+        "prediction_probability": 0.3563298285007477,
+        "decision": "normal"
+    },
+    {
+        "time_step": 778,
+        "actual_label": 0,
+        "prediction_probability": 0.3370570242404938,
+        "decision": "normal"
+    },
+    {
+        "time_step": 779,
+        "actual_label": 0,
+        "prediction_probability": 0.32743069529533386,
+        "decision": "normal"
+    },
+    {
+        "time_step": 780,
+        "actual_label": 0,
+        "prediction_probability": 0.35867738723754883,
+        "decision": "normal"
+    },
+    {
+        "time_step": 781,
+        "actual_label": 0,
+        "prediction_probability": 0.4039930999279022,
+        "decision": "normal"
+    },
+    {
+        "time_step": 782,
+        "actual_label": 0,
+        "prediction_probability": 0.48054239153862,
+        "decision": "normal"
+    },
+    {
+        "time_step": 783,
+        "actual_label": 0,
+        "prediction_probability": 0.49580198526382446,
+        "decision": "normal"
+    },
+    {
+        "time_step": 784,
+        "actual_label": 0,
+        "prediction_probability": 0.5388646721839905,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 785,
+        "actual_label": 0,
+        "prediction_probability": 0.5014859437942505,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 786,
+        "actual_label": 0,
+        "prediction_probability": 0.4419010877609253,
+        "decision": "normal"
+    },
+    {
+        "time_step": 787,
+        "actual_label": 0,
+        "prediction_probability": 0.38266754150390625,
+        "decision": "normal"
+    },
+    {
+        "time_step": 788,
+        "actual_label": 0,
+        "prediction_probability": 0.43373143672943115,
+        "decision": "normal"
+    },
+    {
+        "time_step": 789,
+        "actual_label": 0,
+        "prediction_probability": 0.4463084638118744,
+        "decision": "normal"
+    },
+    {
+        "time_step": 790,
+        "actual_label": 0,
+        "prediction_probability": 0.44891127943992615,
+        "decision": "normal"
+    },
+    {
+        "time_step": 791,
+        "actual_label": 0,
+        "prediction_probability": 0.4506289064884186,
+        "decision": "normal"
+    },
+    {
+        "time_step": 792,
+        "actual_label": 0,
+        "prediction_probability": 0.5220794677734375,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 793,
+        "actual_label": 0,
+        "prediction_probability": 0.5442286729812622,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 794,
+        "actual_label": 0,
+        "prediction_probability": 0.5574309825897217,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 795,
+        "actual_label": 0,
+        "prediction_probability": 0.5691449642181396,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 796,
+        "actual_label": 0,
+        "prediction_probability": 0.567977786064148,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 797,
+        "actual_label": 0,
+        "prediction_probability": 0.5517721176147461,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 798,
+        "actual_label": 0,
+        "prediction_probability": 0.5398478507995605,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 799,
+        "actual_label": 0,
+        "prediction_probability": 0.5257531404495239,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 800,
+        "actual_label": 0,
+        "prediction_probability": 0.43760672211647034,
+        "decision": "normal"
+    },
+    {
+        "time_step": 801,
+        "actual_label": 0,
+        "prediction_probability": 0.40291884541511536,
+        "decision": "normal"
+    },
+    {
+        "time_step": 802,
+        "actual_label": 0,
+        "prediction_probability": 0.3893758952617645,
+        "decision": "normal"
+    },
+    {
+        "time_step": 803,
+        "actual_label": 0,
+        "prediction_probability": 0.43875956535339355,
+        "decision": "normal"
+    },
+    {
+        "time_step": 804,
+        "actual_label": 0,
+        "prediction_probability": 0.4473458528518677,
+        "decision": "normal"
+    },
+    {
+        "time_step": 805,
+        "actual_label": 0,
+        "prediction_probability": 0.4953315258026123,
+        "decision": "normal"
+    },
+    {
+        "time_step": 806,
+        "actual_label": 0,
+        "prediction_probability": 0.538190484046936,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 807,
+        "actual_label": 0,
+        "prediction_probability": 0.5152014493942261,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 808,
+        "actual_label": 0,
+        "prediction_probability": 0.5022780299186707,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 809,
+        "actual_label": 0,
+        "prediction_probability": 0.49842900037765503,
+        "decision": "normal"
+    },
+    {
+        "time_step": 810,
+        "actual_label": 0,
+        "prediction_probability": 0.4995104968547821,
+        "decision": "normal"
+    },
+    {
+        "time_step": 811,
+        "actual_label": 0,
+        "prediction_probability": 0.4962950348854065,
+        "decision": "normal"
+    },
+    {
+        "time_step": 812,
+        "actual_label": 0,
+        "prediction_probability": 0.45318618416786194,
+        "decision": "normal"
+    },
+    {
+        "time_step": 813,
+        "actual_label": 0,
+        "prediction_probability": 0.4447322487831116,
+        "decision": "normal"
+    },
+    {
+        "time_step": 814,
+        "actual_label": 0,
+        "prediction_probability": 0.5031583309173584,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 815,
+        "actual_label": 0,
+        "prediction_probability": 0.5428919196128845,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 816,
+        "actual_label": 0,
+        "prediction_probability": 0.5245330333709717,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 817,
+        "actual_label": 0,
+        "prediction_probability": 0.5641870498657227,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 818,
+        "actual_label": 0,
+        "prediction_probability": 0.5769542455673218,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 819,
+        "actual_label": 0,
+        "prediction_probability": 0.5653212666511536,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 820,
+        "actual_label": 0,
+        "prediction_probability": 0.5630922317504883,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 821,
+        "actual_label": 0,
+        "prediction_probability": 0.5163282155990601,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 822,
+        "actual_label": 0,
+        "prediction_probability": 0.4924739599227905,
+        "decision": "normal"
+    },
+    {
+        "time_step": 823,
+        "actual_label": 0,
+        "prediction_probability": 0.4797210395336151,
+        "decision": "normal"
+    },
+    {
+        "time_step": 824,
+        "actual_label": 0,
+        "prediction_probability": 0.4600626230239868,
+        "decision": "normal"
+    },
+    {
+        "time_step": 825,
+        "actual_label": 0,
+        "prediction_probability": 0.4488796293735504,
+        "decision": "normal"
+    },
+    {
+        "time_step": 826,
+        "actual_label": 0,
+        "prediction_probability": 0.4023582339286804,
+        "decision": "normal"
+    },
+    {
+        "time_step": 827,
+        "actual_label": 0,
+        "prediction_probability": 0.38382184505462646,
+        "decision": "normal"
+    },
+    {
+        "time_step": 828,
+        "actual_label": 0,
+        "prediction_probability": 0.3759831488132477,
+        "decision": "normal"
+    },
+    {
+        "time_step": 829,
+        "actual_label": 0,
+        "prediction_probability": 0.3741699457168579,
+        "decision": "normal"
+    },
+    {
+        "time_step": 830,
+        "actual_label": 0,
+        "prediction_probability": 0.41796597838401794,
+        "decision": "normal"
+    },
+    {
+        "time_step": 831,
+        "actual_label": 0,
+        "prediction_probability": 0.4307345151901245,
+        "decision": "normal"
+    },
+    {
+        "time_step": 832,
+        "actual_label": 0,
+        "prediction_probability": 0.5343542695045471,
+        "decision": "anomaly"
+    },
+    {
+        "time_step": 833,
+        "actual_label": 0,
+        "prediction_probability": 0.4612197279930115,
+        "decision": "normal"
+    },
+    {
+        "time_step": 834,
+        "actual_label": 0,
+        "prediction_probability": 0.48243632912635803,
+        "decision": "normal"
+    },
+    {
+        "time_step": 835,
+        "actual_label": 0,
+        "prediction_probability": 0.4398280084133148,
+        "decision": "normal"
+    },
+    {
+        "time_step": 836,
+        "actual_label": 0,
+        "prediction_probability": 0.3763165771961212,
+        "decision": "normal"
+    }
+]
