@@ -1,0 +1,5 @@
+Model,Training Time (sn),Inference Time (sn)
+Automata,0.0073,0.0073
+LSTM,2.5956,0.3377
+GRU,2.347,0.404
+1D-CNN,Uygulanmadı,Uygulanmadı

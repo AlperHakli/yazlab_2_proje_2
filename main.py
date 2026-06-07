@@ -4,6 +4,13 @@ from settings import settings
 from fetch_data import FetchData
 from experiments.otomata_runner import run_skab_experiments, run_batadal_experiments
 from automata.pipeline import AutomataPipeline
+from experiments.cross_dataset_runner import run_cross_dataset_experiments
+import time
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+from automata.pipeline import AutomataPipeline
+from experiments.models import LSTMModel, GRUModel
+from experiments.preprocessing import DeepLearningPreprocessor
 
 # Derin öğrenme deney motorlarının projeye dahil edilmesi
 from experiments.deep_learning_runner import run_dl_skab_experiments, run_dl_batadal_experiments
@@ -87,7 +94,12 @@ def main():
     print("\n=====================================================")
     print("tüm süreç başarıyla bitti otomata ve derin öğrenme logları hazır!")
     print("="*20)
+    print("\nCross-dataset deneyleri başlatılıyor...")
+    run_cross_dataset_experiments(skab_df, batadal_df)
+
+
 
 
 if __name__ == "__main__":
     main()
+
